@@ -1,0 +1,77 @@
+LOCUS       KJ893407                 858 bp    DNA     linear   SYN 19-MAR-2015
+DEFINITION  Synthetic construct Homo sapiens clone ccsbBroadEn_02801 CASP14
+            gene, encodes complete protein.
+ACCESSION   KJ893407
+VERSION     KJ893407.1
+KEYWORDS    ORFeome Collaboration; Gateway cloning system; full-length ORF
+            without stop codon.
+SOURCE      synthetic construct
+  ORGANISM  synthetic construct
+            other sequences; artificial sequences.
+REFERENCE   1  (bases 1 to 858)
+  AUTHORS   Yang,X., Boehm,J.S., Yang,X., Salehi-Ashtiani,K., Hao,T., Shen,Y.,
+            Lubonja,R., Thomas,S.R., Alkan,O., Bhimdi,T., Green,T.M.,
+            Johannessen,C.M., Silver,S.J., Nguyen,C., Murray,R.R.,
+            Hieronymus,H., Balcha,D., Fan,C., Lin,C., Ghamsari,L., Vidal,M.,
+            Hahn,W.C., Hill,D.E. and Root,D.E.
+  TITLE     A public genome-scale lentiviral expression library of human ORFs
+  JOURNAL   Nat. Methods 8 (8), 659-661 (2011)
+   PUBMED   21706014
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 858)
+  AUTHORS   Root,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-MAY-2014) Broad Institute, 75 Ames St., Cambridge, MA
+            02142, USA
+COMMENT     This clone is distributed via members of the ORFeome Collaboration
+            (http://www.orfeomecollaboration.org/), including the
+            Dana-Farber/Harvard Cancer Center (DF/HCC) DNA Resource Core DNA
+            Repository
+            (http://www.dfhcc.harvard.edu/core-facilities/dnaresource/) and the
+            DNASU Plasmid Repository at ASU Biodesign Institute
+            (http://dnasu.asu.edu/DNASU/Home.jsp).  See also
+            http://www.broadinstitute.org/rnai/public/ for additional
+            information on this clone.
+FEATURES             Location/Qualifiers
+     source          1..858
+                     /organism="synthetic construct"
+                     /mol_type="other DNA"
+                     /db_xref="taxon:32630"
+                     /clone="ccsbBroadEn_02801"
+                     /focus
+                     /note="derived from Homo sapiens; Vector:pDONR223; derived
+                     from source materials corresponding to GenBank accession:
+                     BC069541.1; indicated CDS derived from human cDNA clone"
+     source          66..792
+                     /organism="Homo sapiens"
+                     /mol_type="other DNA"
+                     /db_xref="taxon:9606"
+     CDS             66..>792
+                     /note="missing stop codon"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="CASP14"
+                     /protein_id="AIC50992.1"
+                     /translation="MSNPRSLEEEKYDMSGARLALILCVTKAREGSEEDLDALEHMFR
+                     QLRFESTMKRDPTAEQFQEELEKFQQAIDSREDPVSCAFVVLMAHGREGFLKGEDGEM
+                     VKLENLFEALNNKNCQALRAKPKVYIIQACRGEQRDPGETVGGDEIVMVIKDSPQTIP
+                     TYTDALHVYSTVEGYIAYRHDQKGSCFIQTLVDVFTKRKGHILELLTEVTRRMAEAEL
+                     VQEGKARKTNPEIQSTLRKRLYLQ"
+ORIGIN      
+        1 gttcgttgca acaaattgat gagcaatgct tttttataat gccaactttg tacaaaaaag
+       61 ttggcatgag caatccgcgg tctttggaag aggagaaata tgatatgtca ggtgcccgcc
+      121 tggccctaat actgtgtgtc accaaagccc gggaaggttc cgaagaagac ctggatgctc
+      181 tggaacacat gtttcggcag ctgagattcg aaagcaccat gaaaagagac cccactgccg
+      241 agcaattcca ggaagagctg gaaaaattcc agcaggccat cgattcccgg gaagatcccg
+      301 tcagttgtgc cttcgtggta ctcatggctc acgggaggga aggcttcctc aagggagaag
+      361 atggggagat ggtcaagctg gagaatctct tcgaggccct gaacaacaag aactgccagg
+      421 ccctgcgagc taagcccaag gtgtacatca tacaggcctg tcgaggagaa caaagggacc
+      481 ccggtgaaac agtaggtgga gatgagattg tgatggtcat caaagacagc ccacaaacca
+      541 tcccaacata cacagatgcc ttgcacgttt attccacggt agagggatac atcgcctacc
+      601 gacatgatca gaaaggctca tgctttatcc agaccctggt ggatgtgttc acgaagagga
+      661 aaggacatat cttggaactt ctgacagagg tgacccggcg gatggcagaa gcagagctgg
+      721 ttcaagaagg aaaagcaagg aaaacgaacc ctgaaatcca aagcaccctc cggaaacggc
+      781 tgtatctgca gtacccaact ttcttgtaca aagttggcat tataagaaag cattgcttat
+      841 caatttgttg caacgaac
+//
+

@@ -1,0 +1,685 @@
+LOCUS       NM_001441339           12771 bp    mRNA    linear   PRI 07-JUN-2025
+DEFINITION  Homo sapiens bromodomain and WD repeat domain containing 3 (BRWD3),
+            transcript variant 2, mRNA.
+ACCESSION   NM_001441339 XM_005262113 XM_054326752
+VERSION     NM_001441339.1
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 12771)
+  AUTHORS   Tian,M.Q., Liu,X.R., Lin,S.M., Wang,J., Luo,S., Gao,L.D.,
+            Chen,X.B., Liang,X.Y., Liu,Z.G., He,N., Yi,Y.H. and Liao,W.P.
+  CONSRTM   China Epilepsy Gene 1.0 Project
+  TITLE     Variants in BRWD3 associated with X-linked partial epilepsy without
+            intellectual disability
+  JOURNAL   CNS Neurosci Ther 29 (2), 727-735 (2023)
+   PUBMED   36514184
+  REMARK    GeneRIF: Variants in BRWD3 associated with X-linked partial
+            epilepsy without intellectual disability.
+REFERENCE   2  (bases 1 to 12771)
+  AUTHORS   Delanne,J., Lecat,M., Blackburn,P.R., Klee,E.W., Stumpel,C.T.R.M.,
+            Stegmann,S., Stevens,S.J.C., Nava,C., Heron,D., Keren,B.,
+            Mahida,S., Naidu,S., Babovic-Vuksanovic,D., Herkert,J.C.,
+            Torring,P.M., Kibaek,M., De Bie,I., Pfundt,R., Hendriks,Y.M.C.,
+            Ousager,L.B., Bend,R., Warren,H., Skinner,S.A., Lyons,M.J., Poe,C.,
+            Chevarin,M., Jouan,T., Garde,A., Thomas,Q., Kuentz,P.,
+            Tisserant,E., Duffourd,Y., Philippe,C., Faivre,L. and
+            Thauvin-Robinet,C.
+  TITLE     Further clinical and molecular characterization of an XLID syndrome
+            associated with BRWD3 variants, a gene implicated in the
+            leukemia-related JAK-STAT pathway
+  JOURNAL   Eur J Med Genet 66 (1), 104670 (2023)
+   PUBMED   36414205
+  REMARK    GeneRIF: Further clinical and molecular characterization of an XLID
+            syndrome associated with BRWD3 variants, a gene implicated in the
+            leukemia-related JAK-STAT pathway.
+            Review article
+REFERENCE   3  (bases 1 to 12771)
+  AUTHORS   Manojlovic,Z., Christofferson,A., Liang,W.S., Aldrich,J.,
+            Washington,M., Wong,S., Rohrer,D., Jewell,S., Kittles,R.A.,
+            Derome,M., Auclair,D., Craig,D.W., Keats,J. and Carpten,J.D.
+  TITLE     Comprehensive molecular profiling of 718 Multiple Myelomas reveals
+            significant differences in mutation frequencies between African and
+            European descent cases
+  JOURNAL   PLoS Genet 13 (11), e1007087 (2017)
+   PUBMED   29166413
+  REMARK    GeneRIF: BCL7A, BRWD3, and AUTS2 demonstrate significantly higher
+            mutation frequencies among AA cases. These genes are all involved
+            in translocations in B-cell malignancies. Moreover, we detected a
+            significant difference in mutation frequency of TP53 and IRF4 with
+            frequencies higher among CA cases. Our study provides rationale for
+            interrogating diverse tumor cohorts to best understand tumor
+            genomics across populations.
+            Publication Status: Online-Only
+REFERENCE   4  (bases 1 to 12771)
+  AUTHORS   Grotto,S., Drouin-Garraud,V., Ounap,K., Puusepp-Benazzouz,H.,
+            Schuurs-Hoeijmakers,J., Le Meur,N., Chambon,P., Fehrenbach,S., van
+            Bokhoven,H., Frebourg,T., de Brouwer,A.P. and Saugier-Veber,P.
+  TITLE     Clinical assessment of five patients with BRWD3 mutation at Xq21.1
+            gives further evidence for mild to moderate intellectual disability
+            and macrocephaly
+  JOURNAL   Eur J Med Genet 57 (5), 200-206 (2014)
+   PUBMED   24462886
+  REMARK    GeneRIF: A nonsense mutation in BRWD3 in a family with X-linked
+            intellectual disability associated with macrocephaly.
+REFERENCE   5  (bases 1 to 12771)
+  AUTHORS   Suh,E.J., Kabir,M.H., Kang,U.B., Lee,J.W., Yu,J., Noh,D.Y. and
+            Lee,C.
+  TITLE     Comparative profiling of plasma proteome from breast cancer
+            patients reveals thrombospondin-1 and BRWD3 as serological
+            biomarkers
+  JOURNAL   Exp Mol Med 44 (1), 36-44 (2012)
+   PUBMED   22024541
+  REMARK    GeneRIF: potential serological biomarker of breast cancer
+REFERENCE   6  (bases 1 to 12771)
+  AUTHORS   Bai,S.W., Herrera-Abreu,M.T., Rohn,J.L., Racine,V., Tajadura,V.,
+            Suryavanshi,N., Bechtel,S., Wiemann,S., Baum,B. and Ridley,A.J.
+  TITLE     Identification and characterization of a set of conserved and new
+            regulators of cytoskeletal organization, cell morphology and
+            migration
+  JOURNAL   BMC Biol 9, 54 (2011)
+   PUBMED   21834987
+  REMARK    Erratum:[BMC Biol. 2024 Oct 10;22(1):228. doi:
+            10.1186/s12915-024-02036-3. PMID: 39390519]
+            Publication Status: Online-Only
+REFERENCE   7  (bases 1 to 12771)
+  AUTHORS   Tarpey,P.S., Smith,R., Pleasance,E., Whibley,A., Edkins,S.,
+            Hardy,C., O'Meara,S., Latimer,C., Dicks,E., Menzies,A.,
+            Stephens,P., Blow,M., Greenman,C., Xue,Y., Tyler-Smith,C.,
+            Thompson,D., Gray,K., Andrews,J., Barthorpe,S., Buck,G., Cole,J.,
+            Dunmore,R., Jones,D., Maddison,M., Mironenko,T., Turner,R.,
+            Turrell,K., Varian,J., West,S., Widaa,S., Wray,P., Teague,J.,
+            Butler,A., Jenkinson,A., Jia,M., Richardson,D., Shepherd,R.,
+            Wooster,R., Tejada,M.I., Martinez,F., Carvill,G., Goliath,R., de
+            Brouwer,A.P., van Bokhoven,H., Van Esch,H., Chelly,J., Raynaud,M.,
+            Ropers,H.H., Abidi,F.E., Srivastava,A.K., Cox,J., Luo,Y.,
+            Mallya,U., Moon,J., Parnau,J., Mohammed,S., Tolmie,J.L.,
+            Shoubridge,C., Corbett,M., Gardner,A., Haan,E., Rujirabanjerd,S.,
+            Shaw,M., Vandeleur,L., Fullston,T., Easton,D.F., Boyle,J.,
+            Partington,M., Hackett,A., Field,M., Skinner,C., Stevenson,R.E.,
+            Bobrow,M., Turner,G., Schwartz,C.E., Gecz,J., Raymond,F.L.,
+            Futreal,P.A. and Stratton,M.R.
+  TITLE     A systematic, large-scale resequencing screen of X-chromosome
+            coding exons in mental retardation
+  JOURNAL   Nat Genet 41 (5), 535-543 (2009)
+   PUBMED   19377476
+  REMARK    GeneRIF: Includes the identification of truncating mutations in
+            this gene that segregated with mental retardation in the families
+            tested.
+REFERENCE   8  (bases 1 to 12771)
+  AUTHORS   Field,M., Tarpey,P.S., Smith,R., Edkins,S., O'Meara,S., Stevens,C.,
+            Tofts,C., Teague,J., Butler,A., Dicks,E., Barthorpe,S., Buck,G.,
+            Cole,J., Gray,K., Halliday,K., Hills,K., Jenkinson,A., Jones,D.,
+            Menzies,A., Mironenko,T., Perry,J., Raine,K., Richardson,D.,
+            Shepherd,R., Small,A., Varian,J., West,S., Widaa,S., Mallya,U.,
+            Wooster,R., Moon,J., Luo,Y., Hughes,H., Shaw,M., Friend,K.L.,
+            Corbett,M., Turner,G., Partington,M., Mulley,J., Bobrow,M.,
+            Schwartz,C., Stevenson,R., Gecz,J., Stratton,M.R., Futreal,P.A. and
+            Raymond,F.L.
+  TITLE     Mutations in the BRWD3 gene cause X-linked mental retardation
+            associated with macrocephaly
+  JOURNAL   Am J Hum Genet 81 (2), 367-374 (2007)
+   PUBMED   17668385
+  REMARK    GeneRIF: BRWD3 is therefore a new gene implicated in the etiology
+            of XLMR associated with macrocephaly and may cause disease by
+            altering intracellular signaling pathways affecting cellular
+            proliferation.
+REFERENCE   9  (bases 1 to 12771)
+  AUTHORS   Muller,P., Kuttenkeuler,D., Gesellchen,V., Zeidler,M.P. and
+            Boutros,M.
+  TITLE     Identification of JAK/STAT signalling components by genome-wide RNA
+            interference
+  JOURNAL   Nature 436 (7052), 871-875 (2005)
+   PUBMED   16094372
+REFERENCE   10 (bases 1 to 12771)
+  AUTHORS   Kalla,C., Nentwich,H., Schlotter,M., Mertens,D., Wildenberger,K.,
+            Dohner,H., Stilgenbauer,S. and Lichter,P.
+  TITLE     Translocation t(X;11)(q13;q23) in B-cell chronic lymphocytic
+            leukemia disrupts two novel genes
+  JOURNAL   Genes Chromosomes Cancer 42 (2), 128-143 (2005)
+   PUBMED   15543602
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AL590031.6, AL669934.6 and
+            AL512504.9.
+            
+            On or before Jun 7, 2025 this sequence version replaced
+            XM_005262113.4, XM_054326752.1.
+            
+            Summary: The protein encoded by this gene contains a bromodomain
+            and several WD repeats. It is thought to have a chromatin-modifying
+            function, and may thus play a role in transcription. Mutations in
+            this gene are associated with a spectrum of cognitive disabilities
+            and X-linked macrocephaly. This gene is also associated with
+            translocations in patients with B-cell chronic lymphocytic
+            leukemia. [provided by RefSeq, Jul 2017].
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: SRR14038197.1628590.1,
+                                           SRR14038196.1694055.1 [ECO:0000332]
+            RNAseq introns              :: mixed sample support SAMEA1965299,
+                                           SAMEA1966682 [ECO:0006172]
+            ##Evidence-Data-END##
+            COMPLETENESS: complete on the 3' end.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-437               AL590031.6         60951-61387         c
+            438-496             AL590031.6         60756-60814         c
+            497-526             AL590031.6         60523-60552         c
+            527-586             AL590031.6         60049-60108         c
+            587-737             AL590031.6         45132-45282         c
+            738-836             AL590031.6         43364-43462         c
+            837-997             AL669934.6         25333-25493         c
+            998-1219            AL669934.6         23796-24017         c
+            1220-1320           AL669934.6         15752-15852         c
+            1321-1391           AL669934.6         14891-14961         c
+            1392-1492           AL669934.6         13882-13982         c
+            1493-1533           AL669934.6         13220-13260         c
+            1534-1638           AL669934.6         9680-9784           c
+            1639-1792           AL669934.6         8516-8669           c
+            1793-1927           AL669934.6         4697-4831           c
+            1928-2056           AL669934.6         3512-3640           c
+            2057-2282           AL669934.6         2326-2551           c
+            2283-2450           AL512504.9         220331-220498       c
+            2451-2637           AL512504.9         218415-218601       c
+            2638-2731           AL512504.9         216999-217092       c
+            2732-2808           AL512504.9         208269-208345       c
+            2809-2977           AL512504.9         205520-205688       c
+            2978-3091           AL512504.9         204322-204435       c
+            3092-3199           AL512504.9         200799-200906       c
+            3200-3324           AL512504.9         197581-197705       c
+            3325-3407           AL512504.9         196750-196832       c
+            3408-3519           AL512504.9         193782-193893       c
+            3520-3581           AL512504.9         192931-192992       c
+            3582-3737           AL512504.9         192665-192820       c
+            3738-3858           AL512504.9         191895-192015       c
+            3859-3984           AL512504.9         190809-190934       c
+            3985-4063           AL512504.9         190610-190688       c
+            4064-4120           AL512504.9         188911-188967       c
+            4121-4261           AL512504.9         187705-187845       c
+            4262-4336           AL512504.9         186304-186378       c
+            4337-4489           AL512504.9         184852-185004       c
+            4490-4653           AL512504.9         183307-183470       c
+            4654-4751           AL512504.9         182839-182936       c
+            4752-4910           AL512504.9         182183-182341       c
+            4911-12771          AL512504.9         170345-178205       c
+FEATURES             Location/Qualifiers
+     source          1..12771
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="X"
+                     /map="Xq21.1"
+     gene            1..12771
+                     /gene="BRWD3"
+                     /gene_synonym="BRODL; DCAF20; MRX93; XLID93"
+                     /note="bromodomain and WD repeat domain containing 3"
+                     /db_xref="GeneID:254065"
+                     /db_xref="HGNC:HGNC:17342"
+                     /db_xref="MIM:300553"
+     exon            1..437
+                     /gene="BRWD3"
+                     /gene_synonym="BRODL; DCAF20; MRX93; XLID93"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    278..280
+                     /gene="BRWD3"
+                     /gene_synonym="BRODL; DCAF20; MRX93; XLID93"
+                     /note="upstream in-frame stop codon"
+     CDS             407..5665
+                     /gene="BRWD3"
+                     /gene_synonym="BRODL; DCAF20; MRX93; XLID93"
+                     /note="isoform 2 is encoded by transcript variant 2; novel
+                     WD repeat domain protein; bromo domain-containing protein
+                     disrupted in leukemia"
+                     /codon_start=1
+                     /product="bromodomain and WD repeat-containing protein 3
+                     isoform 2"
+                     /protein_id="NP_001428268.1"
+                     /db_xref="GeneID:254065"
+                     /db_xref="HGNC:HGNC:17342"
+                     /db_xref="MIM:300553"
+                     /translation="MAAAPTQIEAELYYLIARFLQSGPCNKSAQVLVQELEEHQLIPR
+                     RLDWEGKEHRRSFEDLVAANAHIPPDYLLKICERIGPLLDKEIPQSVPGVQTLLGVGR
+                     QSLLRDAKDCKSTLWNGSAFAALHRGRPPELPVNYVKPPNVVNITSARQLTGCSRFGH
+                     IFPSSAYQHIKMHKRILGHLSSVYCVAFDRSGRRIFTGSDDCLVKIWATDDGRLLATL
+                     RGHSAEISDMAVNYENTLIAAGSCDKVVRVWCLRTCAPVAVLQGHSASITSIQFCPST
+                     KGTNRYLTSTGADGTICFWQWHVKTMKFRDRPVKFTERSRPGVQISCSSFSSGGMFIT
+                     TGSTDHVIRIYYLGSEVPEKIAELESHTDKVVAVQFCNNGDSLRFVSGSRDGTARIWQ
+                     YQQQEWKSIVLDMATKMTGNNLPSGEDKITKLKVTMVAWDRYDTTVITAVNNFLLKVW
+                     NSITGQLLHTLSGHDDEVFVLEAHPFDQRIILSAGHDGNIFIWDLDRGTKIRNYFNMI
+                     EGQGHGAVFDCKFSPDGNHFACTDSHGHLLLFGFGCSKYYEKIPDQMFFHTDYRPLIR
+                     DANNYVLDEQTQQAPHLMPPPFLVDVDGNPHPTKFQRLVPGRENCKDEQLIPQLGYVA
+                     NGDGEVVEQVIGQQTNDQDESILDGIIRELQREQDLRLINEGDVPHLPVNRAYSVNGA
+                     LRSPNMDISSSPNIRLRRHSSQIEGVRQMHNNAPRSQMATERDLMAWSRRVVVNELNN
+                     GVSRVQEECRTAKGDIEISLYTVEKKKKPSYTTQREDETVGTSDASVEDPVVEWQSES
+                     SSSDSSSEYSDWTADAGINLQPPKRQTRQTTRKICSSSDEENLKSLEERQKKPKQTRK
+                     KKGGLVSIAGEPNEEWFAPQWILDTIPRRSPFVPQMGDELIYFRQGHEAYVRAVRKSK
+                     IYSVNLQKQPWNKMDLREQEFVKIVGIKYEVGPPTLCCLKLAFLDPISGKMTGESFSI
+                     KYHDMPDVIDFLVLHQFYNEAKERNWQIGDRFRSIIDDAWWFGTVESQQPFQPEYPDS
+                     SFQCYSVHWDNNEREKMSPWDMEPIPEGTAFPDEVGAGVPVSQEELTALLYKPQEGEW
+                     GAHSRDEECERVIQGINHLLSLDFASPFAVPVDLSAYPLYCTVVAYPTDLNTIRRRLE
+                     NRFYRRISALMWEVRYIEHNARTFNEPDSPIVKAAKIVTDVLLRFIGDQSCTDILDTY
+                     NKIKAEERNSTDAEEDTEIVDLDSDGPGTSSGRKVKCRGRRQSLKCNPDAWKKQCKEL
+                     LSLIYEREDSEPFRQPADLLSYPGHQEQEGESSESVVPERQQDSSLSEDYQDVIDTPV
+                     DFSTVKETLEAGNYGSPLEFYKDVRQIFNNSKAYTSNKKSRIYSMMLRLSALFESHIK
+                     NIISEYKSAIQSQKRRRPRYRKRLRSSSSSLSSSGAPSPKGKQKQMKLQPKNDQNTSV
+                     SHARTSSPFSSPVSDAAEGLSLYLLDDEPDGPFSSSSFGGYSRSGNSHDPGKAKSFRN
+                     RVLPVKQDHSLDGPLTNGDGREPRTGIKRKLLSASEEDENMGGEDKEKKETKEKSHLS
+                     TSESGELGSSLSSESTCGSDSDSESTSRTDQDYVDGDHDYSKFIQTRPKRKLRKQHGN
+                     GKRNWKTRGTGGRGRWGRWGRWSRGGRGRGGRGRGSRGRGGGGTRGRGRGRGGRGASR
+                     GATRAKRARIADDEFDTMFSGRFSRLPRIKTRNQGRRTVLYNDDSDNDNFVSTEDPLN
+                     LGTSRSGRVRKMTEKARVSHLMGWNY"
+     exon            438..496
+                     /gene="BRWD3"
+                     /gene_synonym="BRODL; DCAF20; MRX93; XLID93"
+                     /inference="alignment:Splign:2.1.0"
+     exon            497..526
+                     /gene="BRWD3"
+                     /gene_synonym="BRODL; DCAF20; MRX93; XLID93"
+                     /inference="alignment:Splign:2.1.0"
+     exon            527..586
+                     /gene="BRWD3"
+                     /gene_synonym="BRODL; DCAF20; MRX93; XLID93"
+                     /inference="alignment:Splign:2.1.0"
+     exon            587..737
+                     /gene="BRWD3"
+                     /gene_synonym="BRODL; DCAF20; MRX93; XLID93"
+                     /inference="alignment:Splign:2.1.0"
+     exon            738..836
+                     /gene="BRWD3"
+                     /gene_synonym="BRODL; DCAF20; MRX93; XLID93"
+                     /inference="alignment:Splign:2.1.0"
+     exon            837..997
+                     /gene="BRWD3"
+                     /gene_synonym="BRODL; DCAF20; MRX93; XLID93"
+                     /inference="alignment:Splign:2.1.0"
+     exon            998..1219
+                     /gene="BRWD3"
+                     /gene_synonym="BRODL; DCAF20; MRX93; XLID93"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1220..1320
+                     /gene="BRWD3"
+                     /gene_synonym="BRODL; DCAF20; MRX93; XLID93"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1321..1391
+                     /gene="BRWD3"
+                     /gene_synonym="BRODL; DCAF20; MRX93; XLID93"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1392..1492
+                     /gene="BRWD3"
+                     /gene_synonym="BRODL; DCAF20; MRX93; XLID93"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1493..1533
+                     /gene="BRWD3"
+                     /gene_synonym="BRODL; DCAF20; MRX93; XLID93"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1534..1638
+                     /gene="BRWD3"
+                     /gene_synonym="BRODL; DCAF20; MRX93; XLID93"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1639..1792
+                     /gene="BRWD3"
+                     /gene_synonym="BRODL; DCAF20; MRX93; XLID93"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1793..1927
+                     /gene="BRWD3"
+                     /gene_synonym="BRODL; DCAF20; MRX93; XLID93"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1928..2056
+                     /gene="BRWD3"
+                     /gene_synonym="BRODL; DCAF20; MRX93; XLID93"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2057..2282
+                     /gene="BRWD3"
+                     /gene_synonym="BRODL; DCAF20; MRX93; XLID93"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2283..2450
+                     /gene="BRWD3"
+                     /gene_synonym="BRODL; DCAF20; MRX93; XLID93"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2451..2637
+                     /gene="BRWD3"
+                     /gene_synonym="BRODL; DCAF20; MRX93; XLID93"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2638..2731
+                     /gene="BRWD3"
+                     /gene_synonym="BRODL; DCAF20; MRX93; XLID93"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2732..2808
+                     /gene="BRWD3"
+                     /gene_synonym="BRODL; DCAF20; MRX93; XLID93"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2809..2977
+                     /gene="BRWD3"
+                     /gene_synonym="BRODL; DCAF20; MRX93; XLID93"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2978..3091
+                     /gene="BRWD3"
+                     /gene_synonym="BRODL; DCAF20; MRX93; XLID93"
+                     /inference="alignment:Splign:2.1.0"
+     exon            3092..3199
+                     /gene="BRWD3"
+                     /gene_synonym="BRODL; DCAF20; MRX93; XLID93"
+                     /inference="alignment:Splign:2.1.0"
+     exon            3200..3324
+                     /gene="BRWD3"
+                     /gene_synonym="BRODL; DCAF20; MRX93; XLID93"
+                     /inference="alignment:Splign:2.1.0"
+     exon            3325..3407
+                     /gene="BRWD3"
+                     /gene_synonym="BRODL; DCAF20; MRX93; XLID93"
+                     /inference="alignment:Splign:2.1.0"
+     exon            3408..3519
+                     /gene="BRWD3"
+                     /gene_synonym="BRODL; DCAF20; MRX93; XLID93"
+                     /inference="alignment:Splign:2.1.0"
+     exon            3520..3581
+                     /gene="BRWD3"
+                     /gene_synonym="BRODL; DCAF20; MRX93; XLID93"
+                     /inference="alignment:Splign:2.1.0"
+     exon            3582..3737
+                     /gene="BRWD3"
+                     /gene_synonym="BRODL; DCAF20; MRX93; XLID93"
+                     /inference="alignment:Splign:2.1.0"
+     exon            3738..3858
+                     /gene="BRWD3"
+                     /gene_synonym="BRODL; DCAF20; MRX93; XLID93"
+                     /inference="alignment:Splign:2.1.0"
+     exon            3859..3984
+                     /gene="BRWD3"
+                     /gene_synonym="BRODL; DCAF20; MRX93; XLID93"
+                     /inference="alignment:Splign:2.1.0"
+     exon            3985..4063
+                     /gene="BRWD3"
+                     /gene_synonym="BRODL; DCAF20; MRX93; XLID93"
+                     /inference="alignment:Splign:2.1.0"
+     exon            4064..4120
+                     /gene="BRWD3"
+                     /gene_synonym="BRODL; DCAF20; MRX93; XLID93"
+                     /inference="alignment:Splign:2.1.0"
+     exon            4121..4261
+                     /gene="BRWD3"
+                     /gene_synonym="BRODL; DCAF20; MRX93; XLID93"
+                     /inference="alignment:Splign:2.1.0"
+     exon            4262..4336
+                     /gene="BRWD3"
+                     /gene_synonym="BRODL; DCAF20; MRX93; XLID93"
+                     /inference="alignment:Splign:2.1.0"
+     exon            4337..4489
+                     /gene="BRWD3"
+                     /gene_synonym="BRODL; DCAF20; MRX93; XLID93"
+                     /inference="alignment:Splign:2.1.0"
+     exon            4490..4653
+                     /gene="BRWD3"
+                     /gene_synonym="BRODL; DCAF20; MRX93; XLID93"
+                     /inference="alignment:Splign:2.1.0"
+     exon            4654..4751
+                     /gene="BRWD3"
+                     /gene_synonym="BRODL; DCAF20; MRX93; XLID93"
+                     /inference="alignment:Splign:2.1.0"
+     exon            4752..4910
+                     /gene="BRWD3"
+                     /gene_synonym="BRODL; DCAF20; MRX93; XLID93"
+                     /inference="alignment:Splign:2.1.0"
+     exon            4911..12771
+                     /gene="BRWD3"
+                     /gene_synonym="BRODL; DCAF20; MRX93; XLID93"
+                     /inference="alignment:Splign:2.1.0"
+     polyA_site      6457
+                     /gene="BRWD3"
+                     /gene_synonym="BRODL; DCAF20; MRX93; XLID93"
+                     /note="major polyA site"
+     regulatory      10702..10707
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="BRWD3"
+                     /gene_synonym="BRODL; DCAF20; MRX93; XLID93"
+                     /note="hexamer: AATAAA"
+     polyA_site      10734
+                     /gene="BRWD3"
+                     /gene_synonym="BRODL; DCAF20; MRX93; XLID93"
+                     /note="major polyA site"
+     regulatory      10989..10994
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="BRWD3"
+                     /gene_synonym="BRODL; DCAF20; MRX93; XLID93"
+                     /note="hexamer: AATAAA"
+     polyA_site      11014
+                     /gene="BRWD3"
+                     /gene_synonym="BRODL; DCAF20; MRX93; XLID93"
+                     /note="major polyA site"
+     regulatory      11394..11399
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="BRWD3"
+                     /gene_synonym="BRODL; DCAF20; MRX93; XLID93"
+                     /note="hexamer: AATAAA"
+     polyA_site      11420
+                     /gene="BRWD3"
+                     /gene_synonym="BRODL; DCAF20; MRX93; XLID93"
+     regulatory      12704..12709
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="BRWD3"
+                     /gene_synonym="BRODL; DCAF20; MRX93; XLID93"
+                     /note="hexamer: AATAGA"
+     polyA_site      12723
+                     /gene="BRWD3"
+                     /gene_synonym="BRODL; DCAF20; MRX93; XLID93"
+     polyA_site      12771
+                     /gene="BRWD3"
+                     /gene_synonym="BRODL; DCAF20; MRX93; XLID93"
+ORIGIN      
+        1 acttcggctc ctccctcttc tcgctccgtc tatctctctc tctctctctc tctccgcccc
+       61 cccacccccc gcgtctctct ctctctctct ctctctctct ctctctctct ctctctcttt
+      121 ttcctctctc tctctctctc ttctctctct ctctctcact cactcactct ctctctccct
+      181 ctccctctcc tctccttcct cctccgcctc ctcagctctt gggctagaat atctatgggt
+      241 cgaaacgtga tgcgatgaat tcgagagaga gcgaaactag gacgaggagt gcggcggaag
+      301 cggcgggact cccgggcatg ggggcttcac cacaatagag gcagcgcccc cacccgcccc
+      361 cgccagcccc tccggagcga agcccccaaa ccccctcggg aaaaggatgg cggcagcacc
+      421 tacccagatc gaagccgagc tgtattacct gatcgctagg ttcttgcagt ctggaccctg
+      481 caacaaatcc gctcaggtgc tagtgcagga gctcgaggag catcagctga ttccgcgccg
+      541 cttagattgg gaggggaaag agcaccgaag aagcttcgag gatctggtgg cagcaaatgc
+      601 acacattcct ccagactacc tccttaaaat ttgtgagaga attggtcctt tactagataa
+      661 agagatccct cagagtgttc ctggggtaca gacattatta ggtgttggtc ggcagtctct
+      721 gctacgggat gccaaagact gtaagagtac actatggaat gggtctgctt ttgcggctct
+      781 gcatagaggc agacctccag aactacctgt aaattatgtg aaacctccaa atgtggtgaa
+      841 tatcacctct gccaggcaat taaccggctg tagtcgcttt ggtcatattt tcccttcatc
+      901 tgcttaccag cacattaaga tgcataagag aattctgggg cacttgtcat ctgtctactg
+      961 tgtagcattt gaccgaagcg ggagaagaat ttttacaggt tcagatgact gtttagtaaa
+     1021 aatttgggct acagatgatg gacgccttct tgctacactt cgtggacact ctgctgaaat
+     1081 ttctgacatg gctgttaact atgaaaacac tcttattgct gcaggcagct gtgataaggt
+     1141 agtaagagta tggtgtcttc gaacttgtgc acccgttgca gtccttcagg gccattcagc
+     1201 ttctattact tccatacagt tttgtccatc aactaaaggc acaaacagat acctcacttc
+     1261 tactggtgct gatggaacaa tctgtttctg gcaatggcat gtaaaaacaa tgaagtttag
+     1321 agatcgcccg gtgaaattta ctgagagatc cagacctgga gtccagatat cttgttcatc
+     1381 tttcagttct ggtggtatgt tcattacaac tggtagtact gaccatgtga ttagaatata
+     1441 ttatttgggt tctgaggttc ctgagaaaat tgctgaatta gagtcacata cggataaagt
+     1501 tgttgctgtt cagttctgta acaatggaga cagtttaaga tttgttagtg gaagtcgaga
+     1561 tggaacggca agaatttggc agtatcagca acaagaatgg aagagtatag tgctagacat
+     1621 ggctactaaa atgactggca ataatttgcc atctggagaa gacaagatca ctaaacttaa
+     1681 ggtgactatg gtggcctggg atcgctatga taccacagtt attactgcag tgaacaattt
+     1741 tcttttgaaa gtgtggaatt ctatcacagg acagcttctt catacattat ctggacatga
+     1801 tgatgaagta ttcgttctag aagcccatcc atttgatcaa aggatcatac tttcagcagg
+     1861 tcatgatggg aacattttta tttgggacct tgaccggggg accaaaattc ggaattactt
+     1921 taacatgatt gaaggccaag gccatggtgc ggtgtttgat tgtaaatttt caccagatgg
+     1981 aaaccatttt gcctgcacag attctcatgg acatttgctg ctttttggtt ttggatgcag
+     2041 taaatactac gaaaagattc cagatcagat gttcttccac acggattatc gtcctcttat
+     2101 tcgtgatgcc aataactatg tattggatga acaaacccaa caagctcctc acctcatgcc
+     2161 tcctccattt ttggtggatg ttgatggaaa tcctcatccc acaaaattcc aacggttggt
+     2221 accaggacgg gaaaattgta aagatgaaca gcttatacca cagctgggat atgtggctaa
+     2281 tggtgatggt gaggtagtag aacaggtaat tgggcagcaa accaatgacc aagatgagag
+     2341 cattcttgat ggaataatca gggagctgca gagagaacaa gacctgagac taattaatga
+     2401 aggagatgtt ccacatttac cagttaatag agcatactct gttaatggtg ctctgagaag
+     2461 tccaaacatg gacatatctt cttccccaaa catcaggctt cgaagacata gtagtcaaat
+     2521 tgaaggtgtt agacaaatgc ataacaatgc tcctcggagc cagatggcca ctgaaagaga
+     2581 tctcatggcg tggagcagaa gagtggtggt caatgaacta aataatgggg ttagtagggt
+     2641 acaggaagaa tgtcgaactg caaaaggtga catagaaatc agtctttata cagttgaaaa
+     2701 gaagaaaaag ccatcttaca ctactcaaag ggaagatgaa actgttggca caagtgacgc
+     2761 ttcggtagag gatcctgttg ttgaatggca aagtgaaagt tcttccagtg actcatcaag
+     2821 tgaatattct gattggacag cagatgctgg aataaattta caacccccaa aaagacaaac
+     2881 cagacagaca acacgtaaaa tatgcagcag ctctgatgag gaaaatttga agtccctaga
+     2941 agaaaggcag aagaaaccta agcagactag aaagaagaaa ggaggactgg tttctatagc
+     3001 aggtgagcct aatgaagaat ggtttgcccc tcagtggatc ttggatacta taccccgacg
+     3061 ttccccattt gtcccacaaa tgggagatga gcttatctat tttaggcaag gacatgaagc
+     3121 ttatgttcgg gctgtaagga aatcgaaaat atacagtgtt aatttacaaa aacagccatg
+     3181 gaacaaaatg gatctcaggg agcaagagtt tgttaagatt gtaggaatca aatatgaggt
+     3241 tggcccaccc acactgtgct gcttgaagct tgcatttctg gacccaattt caggcaaaat
+     3301 gactggagaa tctttttcca ttaagtatca tgacatgccg gatgtcattg acttccttgt
+     3361 gctacatcag ttttataatg aagccaaaga aaggaactgg cagattggtg atagattccg
+     3421 cagtataata gatgacgcct ggtggtttgg gactgtggag agtcagcagc cttttcaacc
+     3481 agagtatcct gatagttctt tccagtgtta cagtgttcac tgggacaata atgagagaga
+     3541 aaagatgagc ccatgggata tggagccaat tccagaagga actgcctttc cagatgaagt
+     3601 tggtgctggt gttcctgtct cccaggaaga attgactgct ttgctataca aaccccagga
+     3661 aggagagtgg ggggctcatt ccagagacga agaatgtgaa cgggttattc agggcatcaa
+     3721 ccaccttctt tccctggatt ttgccagccc ttttgctgtt ccagtggatc tcagtgccta
+     3781 ccccttgtat tgtactgtag ttgcttatcc aactgacctc aataccatca ggcggagact
+     3841 tgaaaatcgc ttttacagga gaatatcagc attaatgtgg gaggtacgct atattgaaca
+     3901 taatgccagg actttcaatg agccagacag tcctatagtt aaagcagcta aaattgtaac
+     3961 tgatgtctta cttcgattta ttggggatca gagctgtact gatatactgg atacttataa
+     4021 taaaattaaa gcagaagaac gaaacagtac tgatgcagag gaggatacag aaattgttga
+     4081 tttagattca gacggtcctg gtacttcatc tggaagaaag gtcaaatgcc gaggcagaag
+     4141 acagtcttta aagtgtaatc ctgatgcttg gaaaaaacaa tgcaaggaac tattgagcct
+     4201 catttatgaa cgtgaagact cggagccatt tcgacagcca gctgatcttc tttcttaccc
+     4261 aggtcatcag gagcaagagg gagaatcctc agagtctgtt gttccagaaa gacaacaaga
+     4321 ttcatctctt tctgaggatt atcaagatgt tatagatact cctgtggact tcagcactgt
+     4381 gaaagaaact ttggaagcag gaaactatgg tagtcctctg gaattttata aggatgttcg
+     4441 ccaaatattc aacaactcca aagcttatac ctctaataaa aagtcaagga tctatagcat
+     4501 gatgctgcga ttatctgcct tatttgaaag tcatatcaaa aatatcatct ctgaatataa
+     4561 gtcagcaatc cagagtcaga agaggagaag gccacggtac agaaaacgtc taagaagcag
+     4621 cagcagttca ttatctagta gtggagcacc tagtccaaaa gggaagcaga aacaaatgaa
+     4681 gttgcagcct aaaaatgacc agaatacctc agtatctcat gccaggacta gctctccttt
+     4741 ctcatctcct gtttcagatg ctgctgaagg gctttcacta tatctacttg atgatgagcc
+     4801 agatgggcca ttttcttcat cgagcttcgg tggatatagc cgaagtggaa atagccatga
+     4861 cccagggaaa gccaaatcat ttcggaatag agttttgcca gttaaacaag atcactccct
+     4921 tgatggaccc cttacaaatg gtgatggcag agagccccgg acaggaatca agagaaaact
+     4981 acttagtgca tcagaagaag atgaaaacat gggaggagaa gataaagaga aaaaagaaac
+     5041 aaaagagaaa tctcatttat ccacctcaga gagtggagag ttaggatcca gtttaagttc
+     5101 tgaaagtacc tgtggttctg actctgactc tgaatcaact tccagaacag atcaagatta
+     5161 cgtagatgga gaccatgatt atagcaaatt catacaaacc agacctaaaa gaaaactcag
+     5221 aaagcaacat ggcaatggaa aaagaaattg gaagaccaga ggcacaggag gaagaggcag
+     5281 atggggaaga tggggtagat ggagtagagg aggcagagga agaggaggca ggggacgagg
+     5341 gagtcgagga agaggtggag gtggcactag ggggagggga agagggagag gaggaagagg
+     5401 tgcttctaga ggagctacca gagccaaacg agcacgtatt gcagatgatg aatttgatac
+     5461 catgttttca ggacgtttca gtagactgcc tcgaattaaa acaagaaacc aaggcaggag
+     5521 gactgtttta tataatgatg attctgataa tgacaatttt gtgtccactg aggatcctct
+     5581 gaatcttggt acatccagat caggcagagt gcgtaaaatg acagaaaaag ccagggttag
+     5641 ccatctcatg ggatggaatt attaacagtt aataaattta gaataactta aaaaattcaa
+     5701 tggccttcta ctgcagggaa tttaccagga aatctacaaa gcaagttgtg tggggacttc
+     5761 tgcttccttt cacattggtg cttttccatt tatgccagta tacatttgtt tcaagacttt
+     5821 tgatctccac acttcatttg ttcaaataag ccttactcat taggccttaa attaaaagaa
+     5881 attctgccca cacacacaca aacacataca cacacataca cacacacaga cacacacaca
+     5941 cgaaacacaa cacagacact acagatttac tacattaaag gagcattcag cttcttaaga
+     6001 gtagcatgac atttttatct caatagaata gccctctttt gcttttgtat cacagaagta
+     6061 tagcaccttc ttacagagtt ttatatagtt tgtttttgcc attttgattc ctatacccag
+     6121 taataataac ttttgcacaa tacaccaatc ctaaaggcag ctattaaatg tttacagttt
+     6181 ctatattgta agagcgatct ggattatttt actcttccca ggccaaactt tcatgacttg
+     6241 tactgaactg aagtatatat ttatactaca gttttttggg gggtgggggg atcttgatat
+     6301 gcttttcatt gatttgcata attcacgtta aaggtgagaa agggttggtg ccttgtaaat
+     6361 atgtagcaga tcttcgtggt gtgttctgat gtgtgcatta actttattaa aaaagaatac
+     6421 ttgaggtatc aatctagaca aggtgccaaa tgcaaaagtt tcccgcatca atttttttcc
+     6481 tatcacattt tattgcatta atagaatttg tgtagcttaa ataacttaaa catttgaaaa
+     6541 atcctcatcc acaaagaaca acttctttga acagtagctc agctacctct taactacaac
+     6601 tactggaaac attaaggaaa atagatgctg ttattcctta ctgactaagg agaaatagaa
+     6661 caagcttagt aggaatgaat accccataag ttataagctg agaggttgtt aataattgta
+     6721 ttggctctca aattaataat tgtaattaac aaagtttcat aaatatagta tgctctacca
+     6781 ccttaggctt tcttagaaca tatttgtgta agtagacttg ggctactgct tatatatttc
+     6841 tgctccactt accatttaac agctgtgagt tgctggtttt catttgaatc ttaaaattta
+     6901 acaaagcacc tggtttgatt tggaatgttt tggctagcta gtattatgaa tcaacttata
+     6961 gattctgctc atatcattcc aaagggttct tctgttctag tctttcagga aagaacctta
+     7021 ttgcactgca cactcatgtt gtgaatcatt attttataga taaaaaacat ctttaaaaac
+     7081 ccttattgtc ttgtttacag cagtagagtg cacatggttc cataagtgag cttgagttcc
+     7141 aaggtcagtt ttactcccca aatttaatat tacagatttg ttcatttgtt agatacttac
+     7201 atttctgagg taagagggat aatagcaatt tctgtttctg taacagcaaa tttgttgcac
+     7261 ttagatcagg ctcatgggat aaaacagact tcttagtata tacctagcta tcccaggata
+     7321 tttcttaagc taatgtgttt gtctcatgct ttcaatcatt tcatgcatct gaaaaccctt
+     7381 aagtgcagag gaaggcgtac acacataaaa ctttgctttt ttggtagggt cggcagtagg
+     7441 gttattcttg gactaacatc tttaagcagt tttcacttgc agtggaaatg atgttcaggc
+     7501 tttaagagaa agtattgtga attgttaatg gcactaactt ctgttactag acagcagacc
+     7561 aagctatttt tttgttgtag tctttttttc actaaaccaa aactacttct ggttgtaact
+     7621 cagctgccac tttaaaccat agtagagatt caaaacgttc ctatttgaaa ctacatttga
+     7681 tttttgctaa aatgtgctgt ttcggttatt tatctcttgg gcatttagac taaattgtgc
+     7741 ctgtattcct gaaatcaata atactttggc ttatcctgat ctaagtaaca tagttactta
+     7801 aattcctgga tatacccaaa tatggatcac atgtatcatt ttagtttgaa attttttgtt
+     7861 gacattcttc tatgaagagc tgacctcttg aaatgtagaa gaattgacat ttgtgtgatt
+     7921 ttggctatct ggagctttat ttataattta ttttgaaaaa taaaaatgcc acatttattt
+     7981 cccaaatgtc aagattttct agaattagat aattagaata ataaggctga agacatttta
+     8041 aagcatattt tatatgtagt gaaatactgt gaaaatatta gtgaacagca ttttgctgta
+     8101 atgtttattt cagttattaa gatttaaaga gttagtcatc agggtatgtt agataaacat
+     8161 agttatcatt tattaaacaa acagataatt ttctgtttgc atgcaaatta ttttaataag
+     8221 tgtgaaaata aaagtttgga agatagtatt tttactttta tatctggact tttttttccc
+     8281 ccaatttaca ctttgctttc ttgtaatacc acctcctgtg aatgtgttgt aattagtatc
+     8341 acattgatta ctttatcatt ttaatttctt tgaggccctt taaacctacg taaaatctgg
+     8401 gtccagccat agcaaagcaa gtacaaaatg aacaaagaat tttgaagaaa agcctaaatc
+     8461 ttaaattgct aagaaaaaac actgttatat ttaggcccgt gagagcatat acatgtataa
+     8521 acctaatcct atgctagata tgaatagtca gtgagctgta atatttctca taaatgctaa
+     8581 taatgtttaa attcccagct ttaagatctt agtgtgtgta tatatttata aaatctgaat
+     8641 tgtgtgtttc ttctatggct tactgtgtgt ttctctttca gcaataggat gctctctaaa
+     8701 acattcacta gcctactagc ctacttacta aatttttgta tatgtgtgtt tgtgcacttg
+     8761 tatgtgtgta aagttttttc cccaacttga cacaccttat ctcagacatt caaaaaaaga
+     8821 gaacattttg tatggaggac agtctgccaa ctttttgcct ctctacagct cttagcctgt
+     8881 atatttactg cttgatcatt cattatgcct tctagataac cagtccaggt tttgtcatat
+     8941 acctgtgtcc ctctattctt tttatttccc tttttaattt tttttctttt ttttccctcc
+     9001 ccagaaatca ggcttgtgtt ggaattcttc tctataatac tttgtttccc gcagatgcaa
+     9061 agtaacaaag taactgagta aaattagaaa tctcattctg cacaactgtg cgctcagata
+     9121 tttaactcag ccttctaata cttttaagta cgtttctgtt atttatcttt ttgttgtttt
+     9181 tgttttaatc ccatagattg tcatcagaca ataatagagt gattgagaga gaaagatata
+     9241 aatgccactt ctaacttttt gataaaactt ttttgagcat ttttcaaaaa tttgtatgtt
+     9301 tgtggtaatg gggaattaaa caccttttac agctgatgta tgttggaaat cattttatgt
+     9361 acatttacca actggtactt atcttcaagt tggaattttc acatccataa aagggagact
+     9421 tgcatcatat ataattttca gtatactttg ctgtccagcc ttttaaacaa ttacagtaac
+     9481 attttgagtt ctgtgatgaa tagttctagg ggaagggatg gaactttcga catgtaaagt
+     9541 ccattgtttt aaatgctaac cccatcccca atatttttgt ggaacgtgag gctttatgaa
+     9601 aggtttatca gaaatagaat attctaaagt cacttttatg gcttatttca aaaactagtg
+     9661 tgaaagtatt ttcatgcttt tttgtttctc atcttttagc aaagcttctt taccaagttt
+     9721 tgattaaatt gcaatataaa attaagtttt ttcacggtgc tatattttgt ggaatatggg
+     9781 tagcactcag gtttctttct tttttctttt ctccttcctt cttccttcat tccttcattc
+     9841 ctccctcccc cctccctccc tccctctctt ccttccctcc ttccttcctt cctcacctcg
+     9901 gcctcccaaa gtgctgggat tacaggcatg agccaccgtg cccggcctat atacccttat
+     9961 tcttgattat ttcttttttc atcttttcaa tcctgcttac ttttatcctc acttttcttt
+    10021 ctgccatgaa aactgcacct aatttaccac acttaagatt ggcaattttt gattcattga
+    10081 tgggagaagt acagtagaaa ggccctgcag tttagaatta agttgtgttt gtttatttac
+    10141 atgtatgccc atttcttcta aattaaatct agaatgtgag actttgacat ataaaagcat
+    10201 gataagtatt ttcttaaaaa ataagactat tgatacataa tgaaaccacc attggtaatt
+    10261 gaattttaaa atgatatgca aaaatattta gaaatccagt tgggaaatgt gtttttgcat
+    10321 atgtcaccag atacacatta ggcagtacta caaatgttaa ttcttaaaca atactgtggt
+    10381 gatggcaatc agtaatttat ttctttgtcc tgtaacttat cattcttgtc ttttgtaatg
+    10441 tcttacacag tattaacata actgtacctt ttttttgttc ttggtatcca tacattttaa
+    10501 gatggaaaat cagttcatag ttgatatgat attgtatatg ggcaaaatgt ccgttaaact
+    10561 aaaattcagt aaaaaaggta atataaactg gcttgattta taaaagatgt tttgtttggc
+    10621 agttatcagt cattataagc aattatcttc aaagacaaaa aaactggact aatttgttgc
+    10681 cattctttat gggatgttta caataaaatt ccaagttgtt tggaatcaat tgcactcttg
+    10741 ctgctttatg ccttaattta tgtaccagag aaaaattaac cagaagaaag aaatatggag
+    10801 ttacctattc agctttagag attgtaacat gtaactctta ggtctttctt gtttctttgt
+    10861 catagaatat tttattacta ttacttttta atctgagaaa ctaggatgct tcttcctatc
+    10921 aaagaaaagg ttttgttttt tgttttcatc ttagacattg caaatattct ttgggtcact
+    10981 tttaggataa taaatatgat gtttacactt taaatgtggg ctgcttggtg cattcaataa
+    11041 cagcctgcaa agcatttgtc aacattttgt tttgcagagc ttttcaaaat gaatagatct
+    11101 ctaacatatt tatgacttac aacttttaac agctgagtta tatgtacctg acattttaaa
+    11161 atgtatagta agattaccta cattgtaaat ggtgctttaa ttcagtgtaa gtgtaggaga
+    11221 gagagaagtg aggtgagatg atctgaatgc tctaacagga acattcataa ctatatagtt
+    11281 acccagaatt tgtctcccag tggcaaacat tccactaggt tcaagataaa taagctggcc
+    11341 aaagactgga ctgtatcttt gatatatata tactgtgtat tttgtgtatt tagaataaaa
+    11401 aaaatgcatt taggaaaaaa gtagactgat tttttacaat attcagagat tgaagtggag
+    11461 ataagttgtt tggtattttt gtttagttgc ttaattggtt agagatagcc ctctttaagg
+    11521 atataaaaat cttacattaa aaatttttgg ttaaggccag gcacagtgac tcacgtttat
+    11581 aatctcagca ttttgggaag ccatggtggg aggattattt gagcccagga gttcaagacc
+    11641 agcctgggca gcatagtgag acaccgtatc tacaaaacaa tttttttttt aattagctgg
+    11701 gcatggttgt gtgtgcctgt aagtcccagg tacttgggag acaggtggga ggatcactcg
+    11761 agcctgggag gtcaaggctg cagtgagctg tgatcatgcc actgcactcc agcctgggga
+    11821 tccatttttt ttccaagttg agaaggtcaa gaaaaaggtg ctctccatcc tctctcaatt
+    11881 atatgttctt gacaatttaa agctacttta ccaaaatgtg caaaataaaa ccaatatatt
+    11941 gagcctgtga gttgatcttt tgaatgagat ttttggtggg atagttaagc ctatacgctt
+    12001 acagttgctt tctcaggtca tttatataaa tacttaaggg ctttttaatg ctacaaaaca
+    12061 caggtagatc aaacaataat attaaatgaa gtaaactttt tacggtatcg atttttcccc
+    12121 caaagttcta gggaaacatt ttcctttcct ttctatgtaa ctttaataga tttttctttg
+    12181 ccatctgtga caattgcctt aatgaagttc ttatctacag attataaaca tctaattata
+    12241 attataaaat cttataattt taattattct agacatctag ttttaacagt tattaattaa
+    12301 caaattgata tttaatttga tgttggagac ctaaaagtct ttctgaatct agtattaatt
+    12361 ttgaattgcc accttgcctg gtcagcatct ttgcagttct cttcaatttt ataagttttg
+    12421 taagtaaata tatgaagaaa taaaaacatt ttaaattctt taatttaggt gactaatatt
+    12481 aattgatgga gcttattcat ttttaaggat ttttgtggtt gatttttgtc atgttgcaat
+    12541 tctagttaga atttgtataa caacatgtta atttgtattg gcaattttgt atagtctgtt
+    12601 aagtaattta agtcaaggaa actgctaacg tgttccctcc tcccttggct tttaaaaaaa
+    12661 agcttacaat atgtttaaat gaaatttgca taacaaattg tgtaatagat catttgaaaa
+    12721 gtactgtttt gttacccttg agtattattc atctaaaata ttaataatga a
+//
+

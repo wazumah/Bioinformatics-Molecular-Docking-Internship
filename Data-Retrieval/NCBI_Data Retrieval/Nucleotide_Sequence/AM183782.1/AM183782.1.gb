@@ -1,0 +1,53 @@
+LOCUS       AM183782                 655 bp    DNA     linear   PRI 14-NOV-2006
+DEFINITION  Homo sapiens deletion sequence (TP53 gene).
+ACCESSION   AM183782
+VERSION     AM183782.1
+KEYWORDS    TP53 gene.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1
+  AUTHORS   Feuerborn,A., Moritz,C., Von Bonin,F., Dobbelstein,M., Trumper,L.,
+            Sturzenhofecker,B. and Kube,D.
+  TITLE     Dysfunctional p53 deletion mutants in cell lines derived from
+            Hodgkin's lymphoma
+  JOURNAL   Leuk. Lymphoma 47 (9), 1932-1940 (2006)
+   PUBMED   17065008
+REFERENCE   2  (bases 1 to 655)
+  AUTHORS   Feuerborn,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-JAN-2006) Feuerborn A., Hematology & Oncology,
+            University Hospital Goettingen, Robert-Koch Str. 40, 37075
+            Goettingen, GERMANY
+FEATURES             Location/Qualifiers
+     source          1..655
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="17"
+                     /map="17p13.1"
+                     /clone="RP11-199F11"
+     gene            <1..>655
+                     /gene="TP53"
+     variation       <1..>655
+                     /gene="TP53"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="deletion found in cell line L1236"
+                     /replace=""
+ORIGIN      
+        1 gcacagagga agagaatctc cgcaagaaag gggagcctca ccacgagctg cccccaggga
+       61 gcactaagcg aggtaagcaa gcaggacaag aagcggtgga ggagaccaag ggtgcagtta
+      121 tgcctcagat tcacttttat cacctttcct tgcctctttc ctagcactgc ccaacaacac
+      181 cagctcctct ccccagccaa agaagaaacc actggatgga gaatatttca cccttcaggt
+      241 actaagtctt gggacctctt atcaagtgga aagtttccag tctaacactc aaaatgccgt
+      301 tttcttcttg actgttttac ctgcaattgg ggcatttgcc aattggtacc ttaccctgtg
+      361 ccaggagctg ttctaggccc tggaaaccta tggcagacat gttccctacc ctcccactca
+      421 aagagcccag gccttatcct aatgagatct gaaatcaaat ctcccaattt cctcatggct
+      481 tcagtctaaa cttgtaattc acaaccttaa atcaatatgt tctatttttt tatttagaaa
+      541 acatttccgg ccaggcacgg tggatcacac ctgtaatccc agctactcgg gaggctgagg
+      601 caggagaatc gcttgaaccc aggaggcaga gggttgcagt gagccgagat tgcgc
+//
+

@@ -1,0 +1,68 @@
+LOCUS       DR003589                 683 bp    mRNA    linear   EST 17-MAY-2005
+DEFINITION  TC124957 Human hippocampus, large insert, pCMV expression library
+            Homo sapiens cDNA clone TC124957 5' similar to Homo sapiens
+            neighbor of BRCA1 gene 2 (NBR2), mRNA sequence.
+ACCESSION   DR003589
+VERSION     DR003589.1
+DBLINK      BioSample: SAMN00154219
+KEYWORDS    EST.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 683)
+  AUTHORS   Birkett,C., Cho,J., Gau,Y., Hamer,R., Kelly,S., Kovacs,K., Liu,L.,
+            Liu,X., Porter,J., Sachs,A., Shu,Y., Sun,Z., Wong,J., Wu,M.,
+            Zhang,X., Jay,G. and He,W.
+  TITLE     High-throughput cloning of full-length human cDNAs directly from
+            cDNA libraries optimized for large and rare transcripts
+  JOURNAL   Unpublished
+COMMENT     Contact: Kovacs, KF
+            High Throughput cDNA Cloning
+            OriGene Technologies, Inc. ( www.origene.com )
+            6 Taft Court, Suite 100, Rockville, MD 20850, USA
+            Tel: 301 340 3188
+            Fax: 301 340 8606
+            Email: cDNA@origene.com
+            This EST submission is part of an on-going human full-length
+            cloning project at OriGene Technologies, Inc.
+            Please contact OriGene for access.
+            OriGene Technologies, Inc.
+            6 Taft Ct. Suite 100
+            Rockville, MD 20850
+            Tel: (301) 340-3188
+            http://www.origene.com
+            Seq primer: pCMV6 5prime forward vector primer, OriGene
+            Technologies Inc.
+FEATURES             Location/Qualifiers
+     source          1..683
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /clone="TC124957"
+                     /tissue_type="Hippocampus"
+                     /clone_lib="SAMN00154219 Human hippocampus, large insert,
+                     pCMV expression library"
+                     /note="Organ: Hippocampus; Vector: pCMV6-XL6; Site_1:
+                     EcoR1; Site_2: Xho1/Sal1 compatible end ligatio; Oligo-dT
+                     primed reverse transcription optimized for large and GC
+                     rich mRNA transcripts, cDNA size selection, optimized
+                     ligation for large inserts into mammalian expression
+                     vector, random clones selected for end sequence
+                     verification of full-length genes"
+ORIGIN      
+        1 gcacgaggat aaagtgcctg ccctctagcc tctactcttc cagttgcggc ttattgcatc
+       61 acagtaattg ctgtacgaag gtcagaatcg ctacctattg tccaaagcag tcgtaagaag
+      121 aggtcccaat cccccactct ttccgcccta atggaggtct ccagtttcgg tgctggaagc
+      181 ccaggaagca cacatcaagg ctcccttgcc agcagggtgc tgccaataaa aggtagtcac
+      241 gtggaatttg gaatgtggaa aggaggtaga agtcatcctt tcctcccctg tagcagcagg
+      301 cgtgcaggct ctggtggtca gctggactcc atactccccc accagtcacc agcctgggga
+      361 ccgtggggct gcaaggacct cagcagcggt gtcccaagtt tcctgacttc ttccatcctc
+      421 tggaaatcag ctgtgcctca cagcatggaa ccacaggtta ctctaaatgt gacttttaaa
+      481 aatgaaattc aaagctttct ggtttctgat ccagaaaata caacttgggc tgatatcgaa
+      541 gctatggtaa aagtttcatt tgatctgaat actattcaaa taaaatacct ggatgaggaa
+      601 aatgaagagg tatccatcaa cagtcaagga gaatatgaag aagcgcttaa gatggcagtt
+      661 aaacagggaa accaactgca gat
+//
+

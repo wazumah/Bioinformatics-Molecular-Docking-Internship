@@ -1,0 +1,83 @@
+LOCUS       HSU48723                 962 bp    DNA     linear   PRI 05-NOV-1996
+DEFINITION  Human epidermal growth factor receptor (EGFR) gene, partial cds,
+            and epidermal growth factor receptor (EGFR) gene, truncated form,
+            partial cds.
+ACCESSION   U48723
+VERSION     U48723.1
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 962)
+  AUTHORS   Reiter,J.L. and Maihle,N.J.
+  TITLE     A 1.8 kb alternative transcript from the human epidermal growth
+            factor receptor gene encodes a truncated form of the receptor
+  JOURNAL   Nucleic Acids Res. 24 (20), 4050-4056 (1996)
+   PUBMED   8918811
+REFERENCE   2  (bases 1 to 962)
+  AUTHORS   Reiter,J.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-FEB-1996) Jill L. Reiter, Biochemistry and Molecular
+            Biology, Mayo Clinic, 200 First St. SW, Rochester, MN 55905, USA
+FEATURES             Location/Qualifiers
+     source          1..962
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="7"
+                     /map="7p11.2-p12"
+     gene            1..962
+                     /gene="EGFR"
+     CDS             join(<1..74,905..>962)
+                     /gene="EGFR"
+                     /codon_start=2
+                     /product="epidermal growth factor receptor"
+                     /protein_id="AAC50804.1"
+                     /translation="DSFTHTPPLDPQELDILKTVKEITGFLLIQAWPENRTDLHAFE"
+     CDS             <1..85
+                     /gene="EGFR"
+                     /note="ErbB1-S; soluble form of the epidermal growth
+                     factor receptor derived from an alternatively spliced
+                     transcript"
+                     /codon_start=2
+                     /product="epidermal growth factor receptor"
+                     /protein_id="AAC50803.1"
+                     /translation="DSFTHTPPLDPQELDILKTVKEITGLS"
+     exon            <1..74
+                     /gene="EGFR"
+                     /number=10
+     intron          75..904
+                     /gene="EGFR"
+                     /number=10
+     regulatory      160..165
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="EGFR"
+     polyA_site      179
+                     /gene="EGFR"
+     polyA_site      192
+                     /gene="EGFR"
+     exon            905..>962
+                     /gene="EGFR"
+                     /number=11
+ORIGIN      
+        1 tgactccttc acacatactc ctcctctgga tccacaggaa ctggatattc tgaaaaccgt
+       61 aaaggaaatc acaggtttga gctgaattat cacatgaata taaatgggaa atcagtgttt
+      121 tagagagaga acttttcgac atatttcctg ttcccttgga ataaaaacat ttcttctgaa
+      181 attttaccgt taatggctga tgttttgata tttttcaaaa gtgcagtttc tcctgcaggc
+      241 aaaaggggac acgttaagtc caggcttggg tcattcactg cggtgtaaac acgctttctc
+      301 cctcccgccc ggccccagcc agctgccttg gtggcccata acccctgagg gtagagggag
+      361 gggacagggg taggtgacag gcagcctggg cctcaggctt ttgaaactgg acgccagagc
+      421 cttgtggggc cacgggcaag cctcgggtct atgactgccg cctgagctcc gcttccttcc
+      481 tctctaaaat gggaagatta gaccaaaata acaagactgt tttaaggttg gaatcaaata
+      541 aggaaaattt gtaaagctcc ttgtatgtga taccagatcc acaattggca gataatcgca
+      601 gcaggagcct cttcggggta atcagatacg cggcgcagca ggggtctcag ggccacagcc
+      661 aggggggcgg cgggagacat gcggaatcsc agcggaaggc gggaggcagc tgtgaactct
+      721 ggctcggcct gcgtccgccc tgcgcatgta cactcagaga rgatgataat gaaaaagaaa
+      781 gcaaatccaa ttttcccact tactgttcat ataatacaga gtccctgaga gtctagagta
+      841 atgtctcata caaaaaagaa actcctacgt ggtgtgtgtc tgaagtcttt catctgcctt
+      901 acagggtttt tgctgattca ggcttggcct gaaaacagga cggacctcca tgcctttgag
+      961 aa
+//
+

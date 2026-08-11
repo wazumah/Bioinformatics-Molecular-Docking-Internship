@@ -1,0 +1,91 @@
+LOCUS       AM076970                1149 bp    mRNA    linear   PRI 26-JUL-2016
+DEFINITION  Homo sapiens partial mRNA for tumor protein p53 mutant form (TP53
+            gene), classical Hodgkin Lymphoma cell line L428.
+ACCESSION   AM076970
+VERSION     AM076970.1
+KEYWORDS    TP53 gene; tumor protein p53 mutant form.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1
+  AUTHORS   Feuerborn,A., Moritz,C., Von Bonin,F., Dobbelstein,M., Trumper,L.,
+            Sturzenhofecker,B. and Kube,D.
+  TITLE     Dysfunctional p53 deletion mutants in cell lines derived from
+            Hodgkin's lymphoma
+  JOURNAL   Leuk. Lymphoma 47 (9), 1932-1940 (2006)
+   PUBMED   17065008
+REFERENCE   2  (bases 1 to 1149)
+  AUTHORS   Feuerborn,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-AUG-2005) Feuerborn A., Haematology/Oncology,
+            University Hospital Goettingen, Robert-Koch Str. 40, Niedersachsen,
+            37075 Goettingen, GERMANY
+FEATURES             Location/Qualifiers
+     source          1..1149
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="17"
+                     /map="17p13.1"
+                     /cell_line="L428"
+                     /tissue_type="classical Hodgkin Lymphoma"
+     gene            <1..>1149
+                     /gene="TP53"
+     CDS             <1..>1146
+                     /gene="TP53"
+                     /function="tumor suppressor"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Protein variant is incapable of inducing reporter
+                     gene construct and wild-type target genes p21 and mdm2 in
+                     H1299-cells (p53 -/-) in comparison to wild-type protein."
+                     /codon_start=1
+                     /product="tumor protein p53 mutant form"
+                     /protein_id="CAJ28922.1"
+                     /db_xref="GOA:Q1MSX0"
+                     /db_xref="HGNC:HGNC:11998"
+                     /db_xref="InterPro:IPR002117"
+                     /db_xref="InterPro:IPR008967"
+                     /db_xref="InterPro:IPR010991"
+                     /db_xref="InterPro:IPR011615"
+                     /db_xref="InterPro:IPR012346"
+                     /db_xref="InterPro:IPR013872"
+                     /db_xref="InterPro:IPR015551"
+                     /db_xref="UniProtKB/TrEMBL:Q1MSX0"
+                     /translation="MEEPQSDPSVEPPLSQETFSDLWKLLPENNVLSPLPSQAMDDLM
+                     LSPDDIEQWFTEDPGPDEAPRMPEAAPRVAPAPAAPTPAAPAPAPSWPLSSSVPSQKT
+                     YQGSYGFRLTCTYSPALNKMFCQLAKTCPVQLWVDSTPPPGTRVRAMAIYKQSQHMTE
+                     VVRRCPHHERCSDSDGLAPPQHLIRVEGNLRVEYLDDRNTFRHSVVVPYEPPEVGSDC
+                     TTIHYNYMCNSSCMGGMNRRPILTIITLEDSSGNLLGRNSFEVRVCACPGRDRRTEEE
+                     NLRKKGEPHHELPPGSTKRALPNNTSSSPQPKKKPLDGEYFTLQIRGRERFEMFRELN
+                     EALELKDAQAGKEPGGSRAHSSHLKSKKGQSTSRHKKLMFKTEGPDSD"
+     variation       333^334
+                     /gene="TP53"
+                     /compare=AF307851.1
+                     /allele="wild-type"
+                     /replace="ggcttcttgcattctgggacagccaagtctgtg"
+ORIGIN      
+        1 atggaggagc cgcagtcaga tcctagcgtc gagccccctc tgagtcagga aacattttca
+       61 gacctatgga aactacttcc tgaaaacaac gttctgtccc ccttgccgtc ccaagcaatg
+      121 gatgatttga tgctgtcccc ggacgatatt gaacaatggt tcactgaaga cccaggtcca
+      181 gatgaagctc ccagaatgcc agaggctgct ccccgcgtgg cccctgcacc agcagctcct
+      241 acaccggcgg cccctgcacc agccccctcc tggcccctgt catcttctgt cccttcccag
+      301 aaaacctacc agggcagcta cggtttccgt ctgacttgca cgtactcccc tgccctcaac
+      361 aagatgtttt gccaactggc caagacctgc cctgtgcagc tgtgggttga ttccacaccc
+      421 ccgcccggca cccgcgtccg cgccatggcc atctacaagc agtcacagca catgacggag
+      481 gttgtgaggc gctgccccca ccatgagcgc tgctcagata gcgatggtct ggcccctcct
+      541 cagcatctta tccgagtgga aggaaatttg cgtgtggagt atttggatga cagaaacact
+      601 tttcgacata gtgtggtggt gccctatgag ccgcctgagg ttggctctga ctgtaccacc
+      661 atccactaca actacatgtg taacagttcc tgcatgggcg gcatgaaccg gaggcccatc
+      721 ctcaccatca tcacactgga agactccagt ggtaatctac tgggacggaa cagctttgag
+      781 gtgcgtgttt gtgcctgtcc tgggagagac cggcgcacag aggaagagaa tctccgcaag
+      841 aaaggggagc ctcaccacga gctgccccca gggagcacta agcgagcact gcccaacaac
+      901 accagctcct ctccccagcc aaagaagaaa ccactggatg gagaatattt cacccttcag
+      961 atccgtgggc gtgagcgctt cgagatgttc cgagagctga atgaggcctt ggaactcaag
+     1021 gatgcccagg ctgggaagga gccagggggg agcagggctc actccagcca cctgaagtcc
+     1081 aaaaagggtc agtctacctc ccgccataaa aaactcatgt tcaagacaga agggcctgac
+     1141 tcagactga
+//
+

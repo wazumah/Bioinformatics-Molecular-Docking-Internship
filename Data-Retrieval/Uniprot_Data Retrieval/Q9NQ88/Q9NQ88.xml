@@ -1,0 +1,1208 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="no" ?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2005-12-06" modified="2026-09-02" version="180" xmlns="http://uniprot.org/uniprot">
+  <accession>Q9NQ88</accession>
+  <accession>B2R840</accession>
+  <name>TIGAR_HUMAN</name>
+  <protein>
+    <recommendedName>
+      <fullName evidence="14">Fructose-2,6-bisphosphatase TIGAR</fullName>
+      <ecNumber evidence="5">3.1.3.46</ecNumber>
+    </recommendedName>
+    <alternativeName>
+      <fullName evidence="13">TP53-induced glycolysis and apoptosis regulator</fullName>
+    </alternativeName>
+    <alternativeName>
+      <fullName evidence="15">TP53-induced glycolysis regulatory phosphatase</fullName>
+    </alternativeName>
+  </protein>
+  <gene>
+    <name evidence="13" type="primary">TIGAR</name>
+    <name type="synonym">C12orf5</name>
+  </gene>
+  <organism>
+    <name type="scientific">Homo sapiens</name>
+    <name type="common">Human</name>
+    <dbReference type="NCBI Taxonomy" id="9606"/>
+    <lineage>
+      <taxon>Eukaryota</taxon>
+      <taxon>Metazoa</taxon>
+      <taxon>Chordata</taxon>
+      <taxon>Craniata</taxon>
+      <taxon>Vertebrata</taxon>
+      <taxon>Euteleostomi</taxon>
+      <taxon>Mammalia</taxon>
+      <taxon>Eutheria</taxon>
+      <taxon>Euarchontoglires</taxon>
+      <taxon>Primates</taxon>
+      <taxon>Haplorrhini</taxon>
+      <taxon>Catarrhini</taxon>
+      <taxon>Hominidae</taxon>
+      <taxon>Homo</taxon>
+    </lineage>
+  </organism>
+  <reference key="1">
+    <citation type="journal article" date="2000" name="Nat. Genet." volume="26" first="345" last="348">
+      <title>Autosomal dominant hypophosphataemic rickets is associated with mutations in FGF23.</title>
+      <authorList>
+        <person name="White K.E."/>
+        <person name="Evans W.E."/>
+        <person name="O'Riordan J.L.H."/>
+        <person name="Speer M.C."/>
+        <person name="Econs M.J."/>
+        <person name="Lorenz-Depiereux B."/>
+        <person name="Grabowski M."/>
+        <person name="Meitinger T."/>
+        <person name="Strom T.M."/>
+      </authorList>
+      <dbReference type="PubMed" id="11062477"/>
+      <dbReference type="DOI" id="10.1038/81664"/>
+    </citation>
+    <scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+  </reference>
+  <reference key="2">
+    <citation type="submission" date="2003-09" db="EMBL/GenBank/DDBJ databases">
+      <title>Screening and cloning of the target genes transactivated by human gene 2 transactivated by nonstructural protein 3 of Hepatitis C virus using suppression subtractive hybridization technique.</title>
+      <authorList>
+        <person name="Cheng J."/>
+        <person name="Dang X."/>
+        <person name="Wang J."/>
+        <person name="Ji D."/>
+        <person name="Wang C."/>
+        <person name="Yang Q."/>
+        <person name="Liu Y."/>
+      </authorList>
+    </citation>
+    <scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+  </reference>
+  <reference key="3">
+    <citation type="journal article" date="2004" name="Nat. Genet." volume="36" first="40" last="45">
+      <title>Complete sequencing and characterization of 21,243 full-length human cDNAs.</title>
+      <authorList>
+        <person name="Ota T."/>
+        <person name="Suzuki Y."/>
+        <person name="Nishikawa T."/>
+        <person name="Otsuki T."/>
+        <person name="Sugiyama T."/>
+        <person name="Irie R."/>
+        <person name="Wakamatsu A."/>
+        <person name="Hayashi K."/>
+        <person name="Sato H."/>
+        <person name="Nagai K."/>
+        <person name="Kimura K."/>
+        <person name="Makita H."/>
+        <person name="Sekine M."/>
+        <person name="Obayashi M."/>
+        <person name="Nishi T."/>
+        <person name="Shibahara T."/>
+        <person name="Tanaka T."/>
+        <person name="Ishii S."/>
+        <person name="Yamamoto J."/>
+        <person name="Saito K."/>
+        <person name="Kawai Y."/>
+        <person name="Isono Y."/>
+        <person name="Nakamura Y."/>
+        <person name="Nagahari K."/>
+        <person name="Murakami K."/>
+        <person name="Yasuda T."/>
+        <person name="Iwayanagi T."/>
+        <person name="Wagatsuma M."/>
+        <person name="Shiratori A."/>
+        <person name="Sudo H."/>
+        <person name="Hosoiri T."/>
+        <person name="Kaku Y."/>
+        <person name="Kodaira H."/>
+        <person name="Kondo H."/>
+        <person name="Sugawara M."/>
+        <person name="Takahashi M."/>
+        <person name="Kanda K."/>
+        <person name="Yokoi T."/>
+        <person name="Furuya T."/>
+        <person name="Kikkawa E."/>
+        <person name="Omura Y."/>
+        <person name="Abe K."/>
+        <person name="Kamihara K."/>
+        <person name="Katsuta N."/>
+        <person name="Sato K."/>
+        <person name="Tanikawa M."/>
+        <person name="Yamazaki M."/>
+        <person name="Ninomiya K."/>
+        <person name="Ishibashi T."/>
+        <person name="Yamashita H."/>
+        <person name="Murakawa K."/>
+        <person name="Fujimori K."/>
+        <person name="Tanai H."/>
+        <person name="Kimata M."/>
+        <person name="Watanabe M."/>
+        <person name="Hiraoka S."/>
+        <person name="Chiba Y."/>
+        <person name="Ishida S."/>
+        <person name="Ono Y."/>
+        <person name="Takiguchi S."/>
+        <person name="Watanabe S."/>
+        <person name="Yosida M."/>
+        <person name="Hotuta T."/>
+        <person name="Kusano J."/>
+        <person name="Kanehori K."/>
+        <person name="Takahashi-Fujii A."/>
+        <person name="Hara H."/>
+        <person name="Tanase T.-O."/>
+        <person name="Nomura Y."/>
+        <person name="Togiya S."/>
+        <person name="Komai F."/>
+        <person name="Hara R."/>
+        <person name="Takeuchi K."/>
+        <person name="Arita M."/>
+        <person name="Imose N."/>
+        <person name="Musashino K."/>
+        <person name="Yuuki H."/>
+        <person name="Oshima A."/>
+        <person name="Sasaki N."/>
+        <person name="Aotsuka S."/>
+        <person name="Yoshikawa Y."/>
+        <person name="Matsunawa H."/>
+        <person name="Ichihara T."/>
+        <person name="Shiohata N."/>
+        <person name="Sano S."/>
+        <person name="Moriya S."/>
+        <person name="Momiyama H."/>
+        <person name="Satoh N."/>
+        <person name="Takami S."/>
+        <person name="Terashima Y."/>
+        <person name="Suzuki O."/>
+        <person name="Nakagawa S."/>
+        <person name="Senoh A."/>
+        <person name="Mizoguchi H."/>
+        <person name="Goto Y."/>
+        <person name="Shimizu F."/>
+        <person name="Wakebe H."/>
+        <person name="Hishigaki H."/>
+        <person name="Watanabe T."/>
+        <person name="Sugiyama A."/>
+        <person name="Takemoto M."/>
+        <person name="Kawakami B."/>
+        <person name="Yamazaki M."/>
+        <person name="Watanabe K."/>
+        <person name="Kumagai A."/>
+        <person name="Itakura S."/>
+        <person name="Fukuzumi Y."/>
+        <person name="Fujimori Y."/>
+        <person name="Komiyama M."/>
+        <person name="Tashiro H."/>
+        <person name="Tanigami A."/>
+        <person name="Fujiwara T."/>
+        <person name="Ono T."/>
+        <person name="Yamada K."/>
+        <person name="Fujii Y."/>
+        <person name="Ozaki K."/>
+        <person name="Hirao M."/>
+        <person name="Ohmori Y."/>
+        <person name="Kawabata A."/>
+        <person name="Hikiji T."/>
+        <person name="Kobatake N."/>
+        <person name="Inagaki H."/>
+        <person name="Ikema Y."/>
+        <person name="Okamoto S."/>
+        <person name="Okitani R."/>
+        <person name="Kawakami T."/>
+        <person name="Noguchi S."/>
+        <person name="Itoh T."/>
+        <person name="Shigeta K."/>
+        <person name="Senba T."/>
+        <person name="Matsumura K."/>
+        <person name="Nakajima Y."/>
+        <person name="Mizuno T."/>
+        <person name="Morinaga M."/>
+        <person name="Sasaki M."/>
+        <person name="Togashi T."/>
+        <person name="Oyama M."/>
+        <person name="Hata H."/>
+        <person name="Watanabe M."/>
+        <person name="Komatsu T."/>
+        <person name="Mizushima-Sugano J."/>
+        <person name="Satoh T."/>
+        <person name="Shirai Y."/>
+        <person name="Takahashi Y."/>
+        <person name="Nakagawa K."/>
+        <person name="Okumura K."/>
+        <person name="Nagase T."/>
+        <person name="Nomura N."/>
+        <person name="Kikuchi H."/>
+        <person name="Masuho Y."/>
+        <person name="Yamashita R."/>
+        <person name="Nakai K."/>
+        <person name="Yada T."/>
+        <person name="Nakamura Y."/>
+        <person name="Ohara O."/>
+        <person name="Isogai T."/>
+        <person name="Sugano S."/>
+      </authorList>
+      <dbReference type="PubMed" id="14702039"/>
+      <dbReference type="DOI" id="10.1038/ng1285"/>
+    </citation>
+    <scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+  </reference>
+  <reference key="4">
+    <citation type="submission" date="2005-09" db="EMBL/GenBank/DDBJ databases">
+      <authorList>
+        <person name="Mural R.J."/>
+        <person name="Istrail S."/>
+        <person name="Sutton G.G."/>
+        <person name="Florea L."/>
+        <person name="Halpern A.L."/>
+        <person name="Mobarry C.M."/>
+        <person name="Lippert R."/>
+        <person name="Walenz B."/>
+        <person name="Shatkay H."/>
+        <person name="Dew I."/>
+        <person name="Miller J.R."/>
+        <person name="Flanigan M.J."/>
+        <person name="Edwards N.J."/>
+        <person name="Bolanos R."/>
+        <person name="Fasulo D."/>
+        <person name="Halldorsson B.V."/>
+        <person name="Hannenhalli S."/>
+        <person name="Turner R."/>
+        <person name="Yooseph S."/>
+        <person name="Lu F."/>
+        <person name="Nusskern D.R."/>
+        <person name="Shue B.C."/>
+        <person name="Zheng X.H."/>
+        <person name="Zhong F."/>
+        <person name="Delcher A.L."/>
+        <person name="Huson D.H."/>
+        <person name="Kravitz S.A."/>
+        <person name="Mouchard L."/>
+        <person name="Reinert K."/>
+        <person name="Remington K.A."/>
+        <person name="Clark A.G."/>
+        <person name="Waterman M.S."/>
+        <person name="Eichler E.E."/>
+        <person name="Adams M.D."/>
+        <person name="Hunkapiller M.W."/>
+        <person name="Myers E.W."/>
+        <person name="Venter J.C."/>
+      </authorList>
+    </citation>
+    <scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+  </reference>
+  <reference key="5">
+    <citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+      <title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+      <authorList>
+        <consortium name="The MGC Project Team"/>
+      </authorList>
+      <dbReference type="PubMed" id="15489334"/>
+      <dbReference type="DOI" id="10.1101/gr.2596504"/>
+    </citation>
+    <scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+    <source>
+      <tissue>B-cell</tissue>
+    </source>
+  </reference>
+  <reference key="6">
+    <citation type="journal article" date="2005" name="Cancer Res." volume="65" first="7666" last="7673">
+      <title>Identification of novel p53 target genes in ionizing radiation response.</title>
+      <authorList>
+        <person name="Jen K.Y."/>
+        <person name="Cheung V.G."/>
+      </authorList>
+      <dbReference type="PubMed" id="16140933"/>
+      <dbReference type="DOI" id="10.1158/0008-5472.can-05-1039"/>
+    </citation>
+    <scope>INDUCTION</scope>
+  </reference>
+  <reference key="7">
+    <citation type="journal article" date="2006" name="Cell" volume="126" first="107" last="120">
+      <title>TIGAR, a p53-inducible regulator of glycolysis and apoptosis.</title>
+      <authorList>
+        <person name="Bensaad K."/>
+        <person name="Tsuruta A."/>
+        <person name="Selak M.A."/>
+        <person name="Vidal M.N."/>
+        <person name="Nakano K."/>
+        <person name="Bartrons R."/>
+        <person name="Gottlieb E."/>
+        <person name="Vousden K.H."/>
+      </authorList>
+      <dbReference type="PubMed" id="16839880"/>
+      <dbReference type="DOI" id="10.1016/j.cell.2006.05.036"/>
+    </citation>
+    <scope>FUNCTION</scope>
+    <scope>MUTAGENESIS OF HIS-11; GLU-102 AND HIS-198</scope>
+    <scope>INDUCTION</scope>
+  </reference>
+  <reference key="8">
+    <citation type="journal article" date="2007" name="Science" volume="316" first="1160" last="1166">
+      <title>ATM and ATR substrate analysis reveals extensive protein networks responsive to DNA damage.</title>
+      <authorList>
+        <person name="Matsuoka S."/>
+        <person name="Ballif B.A."/>
+        <person name="Smogorzewska A."/>
+        <person name="McDonald E.R. III"/>
+        <person name="Hurov K.E."/>
+        <person name="Luo J."/>
+        <person name="Bakalarski C.E."/>
+        <person name="Zhao Z."/>
+        <person name="Solimini N."/>
+        <person name="Lerenthal Y."/>
+        <person name="Shiloh Y."/>
+        <person name="Gygi S.P."/>
+        <person name="Elledge S.J."/>
+      </authorList>
+      <dbReference type="PubMed" id="17525332"/>
+      <dbReference type="DOI" id="10.1126/science.1140321"/>
+    </citation>
+    <scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+    <source>
+      <tissue>Embryonic kidney</tissue>
+    </source>
+  </reference>
+  <reference key="9">
+    <citation type="journal article" date="2009" name="EMBO J." volume="28" first="3015" last="3026">
+      <title>Modulation of intracellular ROS levels by TIGAR controls autophagy.</title>
+      <authorList>
+        <person name="Bensaad K."/>
+        <person name="Cheung E.C."/>
+        <person name="Vousden K.H."/>
+      </authorList>
+      <dbReference type="PubMed" id="19713938"/>
+      <dbReference type="DOI" id="10.1038/emboj.2009.242"/>
+    </citation>
+    <scope>FUNCTION</scope>
+    <scope>INDUCTION</scope>
+  </reference>
+  <reference key="10">
+    <citation type="journal article" date="2009" name="J. Biol. Chem." volume="284" first="1748" last="1754">
+      <title>Structural and biochemical studies of TIGAR (TP53-induced glycolysis and apoptosis regulator).</title>
+      <authorList>
+        <person name="Li H."/>
+        <person name="Jogl G."/>
+      </authorList>
+      <dbReference type="PubMed" id="19015259"/>
+      <dbReference type="DOI" id="10.1074/jbc.m807821200"/>
+    </citation>
+    <scope>CATALYTIC ACTIVITY</scope>
+  </reference>
+  <reference key="11">
+    <citation type="journal article" date="2009" name="Science" volume="325" first="834" last="840">
+      <title>Lysine acetylation targets protein complexes and co-regulates major cellular functions.</title>
+      <authorList>
+        <person name="Choudhary C."/>
+        <person name="Kumar C."/>
+        <person name="Gnad F."/>
+        <person name="Nielsen M.L."/>
+        <person name="Rehman M."/>
+        <person name="Walther T.C."/>
+        <person name="Olsen J.V."/>
+        <person name="Mann M."/>
+      </authorList>
+      <dbReference type="PubMed" id="19608861"/>
+      <dbReference type="DOI" id="10.1126/science.1175371"/>
+    </citation>
+    <scope>ACETYLATION [LARGE SCALE ANALYSIS] AT LYS-50</scope>
+    <scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+  </reference>
+  <reference key="12">
+    <citation type="journal article" date="2011" name="BMC Syst. Biol." volume="5" first="17" last="17">
+      <title>Initial characterization of the human central proteome.</title>
+      <authorList>
+        <person name="Burkard T.R."/>
+        <person name="Planyavsky M."/>
+        <person name="Kaupe I."/>
+        <person name="Breitwieser F.P."/>
+        <person name="Buerckstuemmer T."/>
+        <person name="Bennett K.L."/>
+        <person name="Superti-Furga G."/>
+        <person name="Colinge J."/>
+      </authorList>
+      <dbReference type="PubMed" id="21269460"/>
+      <dbReference type="DOI" id="10.1186/1752-0509-5-17"/>
+    </citation>
+    <scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+  </reference>
+  <reference key="13">
+    <citation type="journal article" date="2012" name="Hum. Pathol." volume="43" first="221" last="228">
+      <title>Regulatory role of p53 in cancer metabolism via SCO2 and TIGAR in human breast cancer.</title>
+      <authorList>
+        <person name="Won K.Y."/>
+        <person name="Lim S.J."/>
+        <person name="Kim G.Y."/>
+        <person name="Kim Y.W."/>
+        <person name="Han S.A."/>
+        <person name="Song J.Y."/>
+        <person name="Lee D.K."/>
+      </authorList>
+      <dbReference type="PubMed" id="21820150"/>
+      <dbReference type="DOI" id="10.1016/j.humpath.2011.04.021"/>
+    </citation>
+    <scope>TISSUE SPECIFICITY</scope>
+  </reference>
+  <reference key="14">
+    <citation type="journal article" date="2012" name="J. Biol. Chem." volume="287" first="33436" last="33446">
+      <title>Tp53-induced glycolysis and apoptosis regulator (TIGAR) protects glioma cells from starvation-induced cell death by up-regulating respiration and improving cellular redox homeostasis.</title>
+      <authorList>
+        <person name="Wanka C."/>
+        <person name="Steinbach J.P."/>
+        <person name="Rieger J."/>
+      </authorList>
+      <dbReference type="PubMed" id="22887998"/>
+      <dbReference type="DOI" id="10.1074/jbc.m112.384578"/>
+    </citation>
+    <scope>FUNCTION</scope>
+    <scope>INDUCTION</scope>
+    <scope>TISSUE SPECIFICITY</scope>
+    <scope>MUTAGENESIS OF HIS-11; GLU-102 AND HIS-198</scope>
+  </reference>
+  <reference key="15">
+    <citation type="journal article" date="2012" name="Proc. Natl. Acad. Sci. U.S.A." volume="109" first="20491" last="20496">
+      <title>Mitochondrial localization of TIGAR under hypoxia stimulates HK2 and lowers ROS and cell death.</title>
+      <authorList>
+        <person name="Cheung E.C."/>
+        <person name="Ludwig R.L."/>
+        <person name="Vousden K.H."/>
+      </authorList>
+      <dbReference type="PubMed" id="23185017"/>
+      <dbReference type="DOI" id="10.1073/pnas.1206530109"/>
+    </citation>
+    <scope>FUNCTION</scope>
+    <scope>INTERACTION WITH HK2</scope>
+    <scope>SUBCELLULAR LOCATION</scope>
+    <scope>MUTAGENESIS OF HIS-11; GLU-102; HIS-198 AND 258-ASN--ASP-261</scope>
+  </reference>
+  <reference key="16">
+    <citation type="journal article" date="2013" name="Biochem. Biophys. Res. Commun." volume="437" first="300" last="306">
+      <title>Knockdown of TIGAR by RNA interference induces apoptosis and autophagy in HepG2 hepatocellular carcinoma cells.</title>
+      <authorList>
+        <person name="Ye L."/>
+        <person name="Zhao X."/>
+        <person name="Lu J."/>
+        <person name="Qian G."/>
+        <person name="Zheng J.C."/>
+        <person name="Ge S."/>
+      </authorList>
+      <dbReference type="PubMed" id="23817040"/>
+      <dbReference type="DOI" id="10.1016/j.bbrc.2013.06.072"/>
+    </citation>
+    <scope>FUNCTION</scope>
+  </reference>
+  <reference key="17">
+    <citation type="journal article" date="2013" name="Dev. Cell" volume="25" first="463" last="477">
+      <title>TIGAR is required for efficient intestinal regeneration and tumorigenesis.</title>
+      <authorList>
+        <person name="Cheung E.C."/>
+        <person name="Athineos D."/>
+        <person name="Lee P."/>
+        <person name="Ridgway R.A."/>
+        <person name="Lambie W."/>
+        <person name="Nixon C."/>
+        <person name="Strathdee D."/>
+        <person name="Blyth K."/>
+        <person name="Sansom O.J."/>
+        <person name="Vousden K.H."/>
+      </authorList>
+      <dbReference type="PubMed" id="23726973"/>
+      <dbReference type="DOI" id="10.1016/j.devcel.2013.05.001"/>
+    </citation>
+    <scope>FUNCTION</scope>
+    <scope>MUTAGENESIS OF HIS-11; GLU-102 AND HIS-198</scope>
+  </reference>
+  <reference key="18">
+    <citation type="journal article" date="2015" name="Sci. Rep." volume="5" first="9853" last="9853">
+      <title>TIGAR regulates DNA damage and repair through pentosephosphate pathway and Cdk5-ATM pathway.</title>
+      <authorList>
+        <person name="Yu H.P."/>
+        <person name="Xie J.M."/>
+        <person name="Li B."/>
+        <person name="Sun Y.H."/>
+        <person name="Gao Q.G."/>
+        <person name="Ding Z.H."/>
+        <person name="Wu H.R."/>
+        <person name="Qin Z.H."/>
+      </authorList>
+      <dbReference type="PubMed" id="25928429"/>
+      <dbReference type="DOI" id="10.1038/srep09853"/>
+    </citation>
+    <scope>FUNCTION</scope>
+    <scope>SUBCELLULAR LOCATION</scope>
+  </reference>
+  <reference key="19">
+    <citation type="submission" date="2009-02" db="PDB data bank">
+      <title>Crystal structure a TP53-induced glycolysis and apoptosis regulator protein from Homo sapiens.</title>
+      <authorList>
+        <consortium name="Center for eukaryotic structural genomics (CESG)"/>
+      </authorList>
+    </citation>
+    <scope>X-RAY CRYSTALLOGRAPHY (1.75 ANGSTROMS) OF 2-270</scope>
+  </reference>
+  <comment type="function">
+    <text evidence="2 4 5 6 8 9 10 11 12">Fructose-bisphosphatase hydrolyzing fructose-2,6-bisphosphate as well as fructose-1,6-bisphosphate (PubMed:19015259). Acts as a negative regulator of glycolysis by lowering intracellular levels of fructose-2,6-bisphosphate in a p53/TP53-dependent manner, resulting in the pentose phosphate pathway (PPP) activation and NADPH production (PubMed:16839880, PubMed:22887998). Contributes to the generation of reduced glutathione to cause a decrease in intracellular reactive oxygen species (ROS) content, correlating with its ability to protect cells from oxidative or metabolic stress-induced cell death (PubMed:16839880, PubMed:19713938, PubMed:22887998, PubMed:23726973, PubMed:23817040). Plays a role in promoting protection against cell death during hypoxia by decreasing mitochondria ROS levels in a HK2-dependent manner through a mechanism that is independent of its fructose-bisphosphatase activity (PubMed:23185017). In response to cardiac damage stress, mediates p53-induced inhibition of myocyte mitophagy through ROS levels reduction and the subsequent inactivation of BNIP3. Reduced mitophagy results in an enhanced apoptotic myocyte cell death, and exacerbates cardiac damage (By similarity). Plays a role in adult intestinal regeneration; contributes to the growth, proliferation and survival of intestinal crypts following tissue ablation (PubMed:23726973). Plays a neuroprotective role against ischemic brain damage by enhancing PPP flux and preserving mitochondria functions (By similarity). Protects glioma cells from hypoxia- and ROS-induced cell death by inhibiting glycolysis and activating mitochondrial energy metabolism and oxygen consumption in a TKTL1-dependent and p53/TP53-independent manner (PubMed:22887998). Plays a role in cancer cell survival by promoting DNA repair through activating PPP flux in a CDK5-ATM-dependent signaling pathway during hypoxia and/or genome stress-induced DNA damage responses (PubMed:25928429). Involved in intestinal tumor progression (PubMed:23726973).</text>
+  </comment>
+  <comment type="catalytic activity">
+    <reaction evidence="5">
+      <text>beta-D-fructose 2,6-bisphosphate + H2O = beta-D-fructose 6-phosphate + phosphate</text>
+      <dbReference type="Rhea" id="RHEA:17289"/>
+      <dbReference type="ChEBI" id="CHEBI:15377"/>
+      <dbReference type="ChEBI" id="CHEBI:43474"/>
+      <dbReference type="ChEBI" id="CHEBI:57634"/>
+      <dbReference type="ChEBI" id="CHEBI:58579"/>
+      <dbReference type="EC" id="3.1.3.46"/>
+    </reaction>
+  </comment>
+  <comment type="subunit">
+    <text evidence="9">Interacts with HK2; the interaction increases hexokinase HK2 activity in a hypoxia- and HIF1A-dependent manner, resulting in the regulation of mitochondrial membrane potential, thus increasing NADPH production and decreasing intracellular ROS levels (PubMed:23185017).</text>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-3920747">
+      <id>Q9NQ88</id>
+    </interactant>
+    <interactant intactId="EBI-718729">
+      <id>P55212</id>
+      <label>CASP6</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-3920747">
+      <id>Q9NQ88</id>
+    </interactant>
+    <interactant intactId="EBI-473886">
+      <id>O00291</id>
+      <label>HIP1</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-3920747">
+      <id>Q9NQ88</id>
+    </interactant>
+    <interactant intactId="EBI-741469">
+      <id>P52789</id>
+      <label>HK2</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-3920747">
+      <id>Q9NQ88</id>
+    </interactant>
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+      <label>LAMP2</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-3920747">
+      <id>Q9NQ88</id>
+    </interactant>
+    <interactant intactId="EBI-2623095">
+      <id>Q9Y371</id>
+      <label>SH3GLB1</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="subcellular location">
+    <subcellularLocation>
+      <location evidence="9 12">Cytoplasm</location>
+    </subcellularLocation>
+    <subcellularLocation>
+      <location evidence="12">Nucleus</location>
+    </subcellularLocation>
+    <subcellularLocation>
+      <location evidence="9">Mitochondrion</location>
+    </subcellularLocation>
+    <text evidence="2 9 12">Translocated to the mitochondria during hypoxia in a HIF1A-dependent manner (PubMed:23185017). Colocalizes with HK2 in the mitochondria during hypoxia (PubMed:23185017). Translocated to the nucleus during hypoxia and/or genome stress-induced DNA damage responses in cancer cells (PubMed:25928429). Translocation to the mitochondria is enhanced in ischemic cortex after reperfusion and/or during oxygen and glucose deprivation (OGD)/reoxygenation insult in primary neurons (By similarity).</text>
+  </comment>
+  <comment type="tissue specificity">
+    <text evidence="7 8">Expressed in the brain (PubMed:22887998). Expressed in breast tumors (PubMed:21820150). Expressed in glioblastomas (PubMed:22887998).</text>
+  </comment>
+  <comment type="induction">
+    <text evidence="3 4 6 8">Up-regulated by p53/TP53 (at protein level) (PubMed:16839880). Rapidly up-regulated by p53/TP53 (PubMed:16140933, PubMed:16839880, PubMed:19713938). Up-regulated in glioma cell line in a p53/TP53-independent manner (PubMed:22887998).</text>
+  </comment>
+  <comment type="similarity">
+    <text evidence="14">Belongs to the phosphoglycerate mutase family.</text>
+  </comment>
+  <comment type="caution">
+    <text evidence="14">Not expected to have any kinase activity.</text>
+  </comment>
+  <dbReference type="EC" id="3.1.3.46" evidence="5"/>
+  <dbReference type="EMBL" id="AJ272206">
+    <property type="protein sequence ID" value="CAC01127.1"/>
+    <property type="molecule type" value="mRNA"/>
+  </dbReference>
+  <dbReference type="EMBL" id="AY425618">
+    <property type="protein sequence ID" value="AAQ98969.1"/>
+    <property type="molecule type" value="mRNA"/>
+  </dbReference>
+  <dbReference type="EMBL" id="AK313226">
+    <property type="protein sequence ID" value="BAG36037.1"/>
+    <property type="molecule type" value="mRNA"/>
+  </dbReference>
+  <dbReference type="EMBL" id="CH471116">
+    <property type="protein sequence ID" value="EAW88849.1"/>
+    <property type="molecule type" value="Genomic_DNA"/>
+  </dbReference>
+  <dbReference type="EMBL" id="BC012340">
+    <property type="protein sequence ID" value="AAH12340.1"/>
+    <property type="molecule type" value="mRNA"/>
+  </dbReference>
+  <dbReference type="CCDS" id="CCDS8525.1"/>
+  <dbReference type="RefSeq" id="NP_065108.1">
+    <property type="nucleotide sequence ID" value="NM_020375.3"/>
+  </dbReference>
+  <dbReference type="PDB" id="3DCY">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.75 A"/>
+    <property type="chains" value="A=2-270"/>
+  </dbReference>
+  <dbReference type="PDBsum" id="3DCY"/>
+  <dbReference type="AlphaFoldDB" id="Q9NQ88"/>
+  <dbReference type="SMR" id="Q9NQ88"/>
+  <dbReference type="BioGRID" id="121369">
+    <property type="interactions" value="74"/>
+  </dbReference>
+  <dbReference type="DIP" id="DIP-60093N"/>
+  <dbReference type="FunCoup" id="Q9NQ88">
+    <property type="interactions" value="886"/>
+  </dbReference>
+  <dbReference type="IntAct" id="Q9NQ88">
+    <property type="interactions" value="41"/>
+  </dbReference>
+  <dbReference type="NDEx" id="IQUERY-CP-TIGAR">
+    <property type="evidences" value="4 NDEx IQuery Curated Pathways"/>
+  </dbReference>
+  <dbReference type="STRING" id="9606.ENSP00000179259"/>
+  <dbReference type="ChEMBL" id="CHEMBL4295958"/>
+  <dbReference type="DEPOD" id="TIGAR"/>
+  <dbReference type="GlyGen" id="Q9NQ88">
+    <property type="glycosylation" value="1 site, 1 O-linked glycan (1 site)"/>
+  </dbReference>
+  <dbReference type="iPTMnet" id="Q9NQ88"/>
+  <dbReference type="PhosphoSitePlus" id="Q9NQ88"/>
+  <dbReference type="BioMuta" id="TIGAR"/>
+  <dbReference type="DMDM" id="74734311"/>
+  <dbReference type="jPOST" id="Q9NQ88"/>
+  <dbReference type="MassIVE" id="Q9NQ88"/>
+  <dbReference type="PaxDb" id="9606-ENSP00000179259"/>
+  <dbReference type="PeptideAtlas" id="Q9NQ88"/>
+  <dbReference type="ProteomicsDB" id="82106"/>
+  <dbReference type="Pumba" id="Q9NQ88"/>
+  <dbReference type="Antibodypedia" id="22261">
+    <property type="antibodies" value="388 antibodies from 38 providers"/>
+  </dbReference>
+  <dbReference type="DNASU" id="57103"/>
+  <dbReference type="Ensembl" id="ENST00000179259.6">
+    <property type="protein sequence ID" value="ENSP00000179259.4"/>
+    <property type="gene ID" value="ENSG00000078237.8"/>
+  </dbReference>
+  <dbReference type="GeneID" id="57103"/>
+  <dbReference type="KEGG" id="hsa:57103"/>
+  <dbReference type="MANE-Select" id="ENST00000179259.6">
+    <property type="protein sequence ID" value="ENSP00000179259.4"/>
+    <property type="RefSeq nucleotide sequence ID" value="NM_020375.3"/>
+    <property type="RefSeq protein sequence ID" value="NP_065108.1"/>
+  </dbReference>
+  <dbReference type="UCSC" id="uc001qmp.4">
+    <property type="organism name" value="human"/>
+  </dbReference>
+  <dbReference type="AGR" id="HGNC:1185"/>
+  <dbReference type="ClinPGx" id="PA25506"/>
+  <dbReference type="CTD" id="57103"/>
+  <dbReference type="DisGeNET" id="57103"/>
+  <dbReference type="GeneCards" id="TIGAR"/>
+  <dbReference type="HGNC" id="HGNC:1185">
+    <property type="gene designation" value="TIGAR"/>
+  </dbReference>
+  <dbReference type="HPA" id="ENSG00000078237">
+    <property type="expression patterns" value="Low tissue specificity"/>
+  </dbReference>
+  <dbReference type="MIM" id="610775">
+    <property type="type" value="gene"/>
+  </dbReference>
+  <dbReference type="OpenTargets" id="ENSG00000078237"/>
+  <dbReference type="VEuPathDB" id="HostDB:ENSG00000078237"/>
+  <dbReference type="eggNOG" id="KOG0235">
+    <property type="taxonomic scope" value="Eukaryota"/>
+  </dbReference>
+  <dbReference type="GeneTree" id="ENSGT00390000013224"/>
+  <dbReference type="HOGENOM" id="CLU_033323_16_0_1"/>
+  <dbReference type="InParanoid" id="Q9NQ88"/>
+  <dbReference type="OMA" id="PTIQCVC"/>
+  <dbReference type="OrthoDB" id="354304at2759"/>
+  <dbReference type="PAN-GO" id="Q9NQ88">
+    <property type="GO annotations" value="4 GO annotations based on evolutionary models"/>
+  </dbReference>
+  <dbReference type="PhylomeDB" id="Q9NQ88"/>
+  <dbReference type="BioCyc" id="MetaCyc:HS01277-MONOMER"/>
+  <dbReference type="PathwayCommons" id="Q9NQ88"/>
+  <dbReference type="Reactome" id="R-HSA-5628897">
+    <property type="pathway name" value="TP53 Regulates Metabolic Genes"/>
+  </dbReference>
+  <dbReference type="SignaLink" id="Q9NQ88"/>
+  <dbReference type="SIGNOR" id="Q9NQ88"/>
+  <dbReference type="Agora" id="ENSG00000078237"/>
+  <dbReference type="BioGRID-ORCS" id="57103">
+    <property type="hits" value="12 hits in 1160 CRISPR screens"/>
+  </dbReference>
+  <dbReference type="ChiTaRS" id="TIGAR">
+    <property type="organism name" value="human"/>
+  </dbReference>
+  <dbReference type="EvolutionaryTrace" id="Q9NQ88"/>
+  <dbReference type="GeneWiki" id="C12orf5"/>
+  <dbReference type="GenomeRNAi" id="57103"/>
+  <dbReference type="Pharos" id="Q9NQ88">
+    <property type="development level" value="Tbio"/>
+  </dbReference>
+  <dbReference type="PRO" id="PR:Q9NQ88"/>
+  <dbReference type="Proteomes" id="UP000005640">
+    <property type="component" value="Chromosome 12"/>
+  </dbReference>
+  <dbReference type="RNAct" id="Q9NQ88">
+    <property type="molecule type" value="protein"/>
+  </dbReference>
+  <dbReference type="Bgee" id="ENSG00000078237">
+    <property type="expression patterns" value="Expressed in monocyte and 104 other cell types or tissues"/>
+  </dbReference>
+  <dbReference type="ExpressionAtlas" id="Q9NQ88">
+    <property type="expression patterns" value="baseline and differential"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0005737">
+    <property type="term" value="C:cytoplasm"/>
+    <property type="evidence" value="ECO:0000314"/>
+    <property type="project" value="UniProtKB"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0005829">
+    <property type="term" value="C:cytosol"/>
+    <property type="evidence" value="ECO:0000314"/>
+    <property type="project" value="HPA"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0005741">
+    <property type="term" value="C:mitochondrial outer membrane"/>
+    <property type="evidence" value="ECO:0000314"/>
+    <property type="project" value="UniProtKB"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0005739">
+    <property type="term" value="C:mitochondrion"/>
+    <property type="evidence" value="ECO:0000269"/>
+    <property type="project" value="UniProtKB"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0005634">
+    <property type="term" value="C:nucleus"/>
+    <property type="evidence" value="ECO:0000314"/>
+    <property type="project" value="UniProtKB"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0004331">
+    <property type="term" value="F:fructose-2,6-bisphosphate 2-phosphatase activity"/>
+    <property type="evidence" value="ECO:0000314"/>
+    <property type="project" value="UniProtKB"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0071279">
+    <property type="term" value="P:cellular response to cobalt ion"/>
+    <property type="evidence" value="ECO:0000314"/>
+    <property type="project" value="UniProtKB"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0071456">
+    <property type="term" value="P:cellular response to hypoxia"/>
+    <property type="evidence" value="ECO:0000314"/>
+    <property type="project" value="UniProtKB"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0006974">
+    <property type="term" value="P:DNA damage response"/>
+    <property type="evidence" value="ECO:0000314"/>
+    <property type="project" value="UniProtKB"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0045820">
+    <property type="term" value="P:negative regulation of glycolytic process"/>
+    <property type="evidence" value="ECO:0000318"/>
+    <property type="project" value="GO_Central"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0043069">
+    <property type="term" value="P:negative regulation of programmed cell death"/>
+    <property type="evidence" value="ECO:0000314"/>
+    <property type="project" value="UniProtKB"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0045739">
+    <property type="term" value="P:positive regulation of DNA repair"/>
+    <property type="evidence" value="ECO:0000315"/>
+    <property type="project" value="UniProtKB"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:1903301">
+    <property type="term" value="P:positive regulation of hexokinase activity"/>
+    <property type="evidence" value="ECO:0000314"/>
+    <property type="project" value="UniProtKB"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:1905857">
+    <property type="term" value="P:positive regulation of pentose-phosphate shunt"/>
+    <property type="evidence" value="ECO:0000501"/>
+    <property type="project" value="Ensembl"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0043456">
+    <property type="term" value="P:regulation of pentose-phosphate shunt"/>
+    <property type="evidence" value="ECO:0000315"/>
+    <property type="project" value="UniProtKB"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:1902153">
+    <property type="term" value="P:regulation of response to DNA damage checkpoint signaling"/>
+    <property type="evidence" value="ECO:0000315"/>
+    <property type="project" value="UniProtKB"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0002931">
+    <property type="term" value="P:response to ischemia"/>
+    <property type="evidence" value="ECO:0000250"/>
+    <property type="project" value="UniProtKB"/>
+  </dbReference>
+  <dbReference type="CDD" id="cd07067">
+    <property type="entry name" value="HP_PGM_like"/>
+    <property type="match status" value="1"/>
+  </dbReference>
+  <dbReference type="FunFam" id="3.40.50.1240:FF:000026">
+    <property type="entry name" value="Putative fructose-2,6-bisphosphatase TIGAR"/>
+    <property type="match status" value="1"/>
+  </dbReference>
+  <dbReference type="Gene3D" id="3.40.50.1240">
+    <property type="entry name" value="Phosphoglycerate mutase-like"/>
+    <property type="match status" value="1"/>
+  </dbReference>
+  <dbReference type="InterPro" id="IPR013078">
+    <property type="entry name" value="His_Pase_superF_clade-1"/>
+  </dbReference>
+  <dbReference type="InterPro" id="IPR029033">
+    <property type="entry name" value="His_PPase_superfam"/>
+  </dbReference>
+  <dbReference type="InterPro" id="IPR001345">
+    <property type="entry name" value="PG/BPGM_mutase_AS"/>
+  </dbReference>
+  <dbReference type="InterPro" id="IPR051695">
+    <property type="entry name" value="Phosphoglycerate_Mutase"/>
+  </dbReference>
+  <dbReference type="PANTHER" id="PTHR46517">
+    <property type="entry name" value="FRUCTOSE-2,6-BISPHOSPHATASE TIGAR"/>
+    <property type="match status" value="1"/>
+  </dbReference>
+  <dbReference type="PANTHER" id="PTHR46517:SF1">
+    <property type="entry name" value="FRUCTOSE-2,6-BISPHOSPHATASE TIGAR"/>
+    <property type="match status" value="1"/>
+  </dbReference>
+  <dbReference type="Pfam" id="PF00300">
+    <property type="entry name" value="His_Phos_1"/>
+    <property type="match status" value="1"/>
+  </dbReference>
+  <dbReference type="SMART" id="SM00855">
+    <property type="entry name" value="PGAM"/>
+    <property type="match status" value="1"/>
+  </dbReference>
+  <dbReference type="SUPFAM" id="SSF53254">
+    <property type="entry name" value="Phosphoglycerate mutase-like"/>
+    <property type="match status" value="1"/>
+  </dbReference>
+  <dbReference type="PROSITE" id="PS00175">
+    <property type="entry name" value="PG_MUTASE"/>
+    <property type="match status" value="1"/>
+  </dbReference>
+  <proteinExistence type="evidence at protein level"/>
+  <keyword id="KW-0002">3D-structure</keyword>
+  <keyword id="KW-0007">Acetylation</keyword>
+  <keyword id="KW-0053">Apoptosis</keyword>
+  <keyword id="KW-0072">Autophagy</keyword>
+  <keyword id="KW-0963">Cytoplasm</keyword>
+  <keyword id="KW-0378">Hydrolase</keyword>
+  <keyword id="KW-0496">Mitochondrion</keyword>
+  <keyword id="KW-0539">Nucleus</keyword>
+  <keyword id="KW-1267">Proteomics identification</keyword>
+  <keyword id="KW-1185">Reference proteome</keyword>
+  <feature type="chain" id="PRO_0000179957" description="Fructose-2,6-bisphosphatase TIGAR">
+    <location>
+      <begin position="1"/>
+      <end position="270"/>
+    </location>
+  </feature>
+  <feature type="active site" description="Tele-phosphohistidine intermediate" evidence="1">
+    <location>
+      <position position="11"/>
+    </location>
+  </feature>
+  <feature type="active site" description="Proton donor/acceptor" evidence="1">
+    <location>
+      <position position="89"/>
+    </location>
+  </feature>
+  <feature type="site" description="Transition state stabilizer" evidence="1">
+    <location>
+      <position position="198"/>
+    </location>
+  </feature>
+  <feature type="modified residue" description="N6-acetyllysine" evidence="16">
+    <location>
+      <position position="50"/>
+    </location>
+  </feature>
+  <feature type="mutagenesis site" description="Abolishes the ability to lower cellular fructose-2,6-bisphosphate levels, to inhibit the glycolytic activity, to reduce levels of ROS, to increase oxygen consumption and to protect toward hypoxic cell death; when associated with A-11 and A-102. Retains the ability to interact and enhance HK2 activity, to localize to the mitochondria, to limit mitochondrial ROS level increase during hypoxia and to rescued partially crypt growth; when associated with A-102 and A-198. Loss of the ability to protect against cell death during hypoxia; when associated with A-102; A-198 and 258-N--D-261 Del." evidence="4 8 9 10">
+    <original>H</original>
+    <variation>A</variation>
+    <location>
+      <position position="11"/>
+    </location>
+  </feature>
+  <feature type="mutagenesis site" description="Abolishes the ability to lower cellular fructose-2,6-bisphosphate levels, to inhibit the glycolytic activity, to reduce levels of ROS, to increase oxygen consumption and to protect toward hypoxic cell death; when associated with A-11 and A-198. Retains the ability to interact and enhance HK2 activity, to localize to the mitochondria, to limit mitochondrial ROS level increase during hypoxia and to rescued partially crypt growth; when associated with A-11 and A-198. Loss of the ability to protect against cell death during hypoxia; when associated with A-11; A-198 and 258-N--D-261 Del." evidence="4 8 9 10">
+    <original>E</original>
+    <variation>A</variation>
+    <location>
+      <position position="102"/>
+    </location>
+  </feature>
+  <feature type="mutagenesis site" description="Abolishes the ability to lower cellular fructose-2,6-bisphosphate levels, to inhibit the glycolytic activity, to reduce levels of ROS, to increase oxygen consumption and to protect toward hypoxic cell death; when associated with A-11 and A-102. Retains the ability to interact and enhance HK2 activity, to localize to the mitochondria, to limit mitochondrial ROS level increase during hypoxia and to rescued partially crypt growth; when associated with A-11 and A-102. Loss of the ability to protect against cell death during hypoxia; when associated with A-11; A-102 and 258-N--D-261 Del." evidence="4 8 9 10">
+    <original>H</original>
+    <variation>A</variation>
+    <location>
+      <position position="198"/>
+    </location>
+  </feature>
+  <feature type="mutagenesis site" description="Inhibits the ability to interact and enhance HK2 activity, to localize to the mitochondria, to protect against the decrease of mitochondrial membrane potential and to limit mitochondrial ROS level increase during hypoxia. Does not abolish the ability to lower cellular fructose-2,6-bisphosphate levels during hypoxia. Loss of the ability to protect against cell death during hypoxia; when associated with A-11; A-102 and A-198." evidence="9">
+    <location>
+      <begin position="258"/>
+      <end position="261"/>
+    </location>
+  </feature>
+  <feature type="strand" evidence="17">
+    <location>
+      <begin position="2"/>
+      <end position="10"/>
+    </location>
+  </feature>
+  <feature type="helix" evidence="17">
+    <location>
+      <begin position="11"/>
+      <end position="13"/>
+    </location>
+  </feature>
+  <feature type="helix" evidence="17">
+    <location>
+      <begin position="15"/>
+      <end position="19"/>
+    </location>
+  </feature>
+  <feature type="strand" evidence="17">
+    <location>
+      <begin position="24"/>
+      <end position="27"/>
+    </location>
+  </feature>
+  <feature type="helix" evidence="17">
+    <location>
+      <begin position="33"/>
+      <end position="45"/>
+    </location>
+  </feature>
+  <feature type="turn" evidence="17">
+    <location>
+      <begin position="46"/>
+      <end position="48"/>
+    </location>
+  </feature>
+  <feature type="strand" evidence="17">
+    <location>
+      <begin position="52"/>
+      <end position="56"/>
+    </location>
+  </feature>
+  <feature type="helix" evidence="17">
+    <location>
+      <begin position="60"/>
+      <end position="70"/>
+    </location>
+  </feature>
+  <feature type="strand" evidence="17">
+    <location>
+      <begin position="81"/>
+      <end position="83"/>
+    </location>
+  </feature>
+  <feature type="helix" evidence="17">
+    <location>
+      <begin position="85"/>
+      <end position="87"/>
+    </location>
+  </feature>
+  <feature type="helix" evidence="17">
+    <location>
+      <begin position="88"/>
+      <end position="91"/>
+    </location>
+  </feature>
+  <feature type="helix" evidence="17">
+    <location>
+      <begin position="93"/>
+      <end position="95"/>
+    </location>
+  </feature>
+  <feature type="helix" evidence="17">
+    <location>
+      <begin position="100"/>
+      <end position="109"/>
+    </location>
+  </feature>
+  <feature type="turn" evidence="17">
+    <location>
+      <begin position="114"/>
+      <end position="116"/>
+    </location>
+  </feature>
+  <feature type="helix" evidence="17">
+    <location>
+      <begin position="125"/>
+      <end position="149"/>
+    </location>
+  </feature>
+  <feature type="helix" evidence="17">
+    <location>
+      <begin position="161"/>
+      <end position="167"/>
+    </location>
+  </feature>
+  <feature type="helix" evidence="17">
+    <location>
+      <begin position="187"/>
+      <end position="189"/>
+    </location>
+  </feature>
+  <feature type="strand" evidence="17">
+    <location>
+      <begin position="192"/>
+      <end position="197"/>
+    </location>
+  </feature>
+  <feature type="helix" evidence="17">
+    <location>
+      <begin position="199"/>
+      <end position="207"/>
+    </location>
+  </feature>
+  <feature type="helix" evidence="17">
+    <location>
+      <begin position="208"/>
+      <end position="212"/>
+    </location>
+  </feature>
+  <feature type="helix" evidence="17">
+    <location>
+      <begin position="223"/>
+      <end position="227"/>
+    </location>
+  </feature>
+  <feature type="strand" evidence="17">
+    <location>
+      <begin position="235"/>
+      <end position="242"/>
+    </location>
+  </feature>
+  <feature type="strand" evidence="17">
+    <location>
+      <begin position="244"/>
+      <end position="247"/>
+    </location>
+  </feature>
+  <feature type="helix" evidence="17">
+    <location>
+      <begin position="248"/>
+      <end position="250"/>
+    </location>
+  </feature>
+  <feature type="strand" evidence="17">
+    <location>
+      <begin position="251"/>
+      <end position="259"/>
+    </location>
+  </feature>
+  <evidence type="ECO:0000250" key="1">
+    <source>
+      <dbReference type="UniProtKB" id="Q7ZVE3"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000250" key="2">
+    <source>
+      <dbReference type="UniProtKB" id="Q8BZA9"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000269" key="3">
+    <source>
+      <dbReference type="PubMed" id="16140933"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000269" key="4">
+    <source>
+      <dbReference type="PubMed" id="16839880"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000269" key="5">
+    <source>
+      <dbReference type="PubMed" id="19015259"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000269" key="6">
+    <source>
+      <dbReference type="PubMed" id="19713938"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000269" key="7">
+    <source>
+      <dbReference type="PubMed" id="21820150"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000269" key="8">
+    <source>
+      <dbReference type="PubMed" id="22887998"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000269" key="9">
+    <source>
+      <dbReference type="PubMed" id="23185017"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000269" key="10">
+    <source>
+      <dbReference type="PubMed" id="23726973"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000269" key="11">
+    <source>
+      <dbReference type="PubMed" id="23817040"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000269" key="12">
+    <source>
+      <dbReference type="PubMed" id="25928429"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000303" key="13">
+    <source>
+      <dbReference type="PubMed" id="16839880"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000305" key="14"/>
+  <evidence type="ECO:0000312" key="15">
+    <source>
+      <dbReference type="HGNC" id="HGNC:1185"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0007744" key="16">
+    <source>
+      <dbReference type="PubMed" id="19608861"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0007829" key="17">
+    <source>
+      <dbReference type="PDB" id="3DCY"/>
+    </source>
+  </evidence>
+  <sequence length="270" mass="30063" checksum="B85D59659AD96E39" modified="2000-10-01" version="1">MARFALTVVRHGETRFNKEKIIQGQGVDEPLSETGFKQAAAAGIFLNNVKFTHAFSSDLMRTKQTMHGILERSKFCKDMTVKYDSRLRERKYGVVEGKALSELRAMAKAAREECPVFTPPGGETLDQVKMRGIDFFEFLCQLILKEADQKEQFSQGSPSNCLETSLAEIFPLGKNHSSKVNSDSGIPGLAASVLVVSHGAYMRSLFDYFLTDLKCSLPATLSRSELMSVTPNTGMSLFIINFEEGREVKPTVQCICMNLQDHLNGLTETR</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

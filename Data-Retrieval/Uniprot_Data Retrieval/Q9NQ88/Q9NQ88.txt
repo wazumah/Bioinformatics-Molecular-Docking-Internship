@@ -1,0 +1,497 @@
+ID   TIGAR_HUMAN             Reviewed;         270 AA.
+AC   Q9NQ88; B2R840;
+DT   06-DEC-2005, integrated into UniProtKB/Swiss-Prot.
+DT   01-OCT-2000, sequence version 1.
+DT   02-SEP-2026, entry version 180.
+DE   RecName: Full=Fructose-2,6-bisphosphatase TIGAR {ECO:0000305};
+DE            EC=3.1.3.46 {ECO:0000269|PubMed:19015259};
+DE   AltName: Full=TP53-induced glycolysis and apoptosis regulator {ECO:0000303|PubMed:16839880};
+DE   AltName: Full=TP53-induced glycolysis regulatory phosphatase {ECO:0000312|HGNC:HGNC:1185};
+GN   Name=TIGAR {ECO:0000303|PubMed:16839880}; Synonyms=C12orf5;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RX   PubMed=11062477; DOI=10.1038/81664;
+RA   White K.E., Evans W.E., O'Riordan J.L.H., Speer M.C., Econs M.J.,
+RA   Lorenz-Depiereux B., Grabowski M., Meitinger T., Strom T.M.;
+RT   "Autosomal dominant hypophosphataemic rickets is associated with mutations
+RT   in FGF23.";
+RL   Nat. Genet. 26:345-348(2000).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RA   Cheng J., Dang X., Wang J., Ji D., Wang C., Yang Q., Liu Y.;
+RT   "Screening and cloning of the target genes transactivated by human gene 2
+RT   transactivated by nonstructural protein 3 of Hepatitis C virus using
+RT   suppression subtractive hybridization technique.";
+RL   Submitted (SEP-2003) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L., Mobarry C.M.,
+RA   Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R., Flanigan M.J.,
+RA   Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V., Hannenhalli S.,
+RA   Turner R., Yooseph S., Lu F., Nusskern D.R., Shue B.C., Zheng X.H.,
+RA   Zhong F., Delcher A.L., Huson D.H., Kravitz S.A., Mouchard L., Reinert K.,
+RA   Remington K.A., Clark A.G., Waterman M.S., Eichler E.E., Adams M.D.,
+RA   Hunkapiller M.W., Myers E.W., Venter J.C.;
+RL   Submitted (SEP-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=B-cell;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [6]
+RP   INDUCTION.
+RX   PubMed=16140933; DOI=10.1158/0008-5472.can-05-1039;
+RA   Jen K.Y., Cheung V.G.;
+RT   "Identification of novel p53 target genes in ionizing radiation response.";
+RL   Cancer Res. 65:7666-7673(2005).
+RN   [7]
+RP   FUNCTION, MUTAGENESIS OF HIS-11; GLU-102 AND HIS-198, AND INDUCTION.
+RX   PubMed=16839880; DOI=10.1016/j.cell.2006.05.036;
+RA   Bensaad K., Tsuruta A., Selak M.A., Vidal M.N., Nakano K., Bartrons R.,
+RA   Gottlieb E., Vousden K.H.;
+RT   "TIGAR, a p53-inducible regulator of glycolysis and apoptosis.";
+RL   Cell 126:107-120(2006).
+RN   [8]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Embryonic kidney;
+RX   PubMed=17525332; DOI=10.1126/science.1140321;
+RA   Matsuoka S., Ballif B.A., Smogorzewska A., McDonald E.R. III, Hurov K.E.,
+RA   Luo J., Bakalarski C.E., Zhao Z., Solimini N., Lerenthal Y., Shiloh Y.,
+RA   Gygi S.P., Elledge S.J.;
+RT   "ATM and ATR substrate analysis reveals extensive protein networks
+RT   responsive to DNA damage.";
+RL   Science 316:1160-1166(2007).
+RN   [9]
+RP   FUNCTION, AND INDUCTION.
+RX   PubMed=19713938; DOI=10.1038/emboj.2009.242;
+RA   Bensaad K., Cheung E.C., Vousden K.H.;
+RT   "Modulation of intracellular ROS levels by TIGAR controls autophagy.";
+RL   EMBO J. 28:3015-3026(2009).
+RN   [10]
+RP   CATALYTIC ACTIVITY.
+RX   PubMed=19015259; DOI=10.1074/jbc.m807821200;
+RA   Li H., Jogl G.;
+RT   "Structural and biochemical studies of TIGAR (TP53-induced glycolysis and
+RT   apoptosis regulator).";
+RL   J. Biol. Chem. 284:1748-1754(2009).
+RN   [11]
+RP   ACETYLATION [LARGE SCALE ANALYSIS] AT LYS-50, AND IDENTIFICATION BY MASS
+RP   SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=19608861; DOI=10.1126/science.1175371;
+RA   Choudhary C., Kumar C., Gnad F., Nielsen M.L., Rehman M., Walther T.C.,
+RA   Olsen J.V., Mann M.;
+RT   "Lysine acetylation targets protein complexes and co-regulates major
+RT   cellular functions.";
+RL   Science 325:834-840(2009).
+RN   [12]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21269460; DOI=10.1186/1752-0509-5-17;
+RA   Burkard T.R., Planyavsky M., Kaupe I., Breitwieser F.P., Buerckstuemmer T.,
+RA   Bennett K.L., Superti-Furga G., Colinge J.;
+RT   "Initial characterization of the human central proteome.";
+RL   BMC Syst. Biol. 5:17-17(2011).
+RN   [13]
+RP   TISSUE SPECIFICITY.
+RX   PubMed=21820150; DOI=10.1016/j.humpath.2011.04.021;
+RA   Won K.Y., Lim S.J., Kim G.Y., Kim Y.W., Han S.A., Song J.Y., Lee D.K.;
+RT   "Regulatory role of p53 in cancer metabolism via SCO2 and TIGAR in human
+RT   breast cancer.";
+RL   Hum. Pathol. 43:221-228(2012).
+RN   [14]
+RP   FUNCTION, INDUCTION, TISSUE SPECIFICITY, AND MUTAGENESIS OF HIS-11; GLU-102
+RP   AND HIS-198.
+RX   PubMed=22887998; DOI=10.1074/jbc.m112.384578;
+RA   Wanka C., Steinbach J.P., Rieger J.;
+RT   "Tp53-induced glycolysis and apoptosis regulator (TIGAR) protects glioma
+RT   cells from starvation-induced cell death by up-regulating respiration and
+RT   improving cellular redox homeostasis.";
+RL   J. Biol. Chem. 287:33436-33446(2012).
+RN   [15]
+RP   FUNCTION, INTERACTION WITH HK2, SUBCELLULAR LOCATION, AND MUTAGENESIS OF
+RP   HIS-11; GLU-102; HIS-198 AND 258-ASN--ASP-261.
+RX   PubMed=23185017; DOI=10.1073/pnas.1206530109;
+RA   Cheung E.C., Ludwig R.L., Vousden K.H.;
+RT   "Mitochondrial localization of TIGAR under hypoxia stimulates HK2 and
+RT   lowers ROS and cell death.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 109:20491-20496(2012).
+RN   [16]
+RP   FUNCTION.
+RX   PubMed=23817040; DOI=10.1016/j.bbrc.2013.06.072;
+RA   Ye L., Zhao X., Lu J., Qian G., Zheng J.C., Ge S.;
+RT   "Knockdown of TIGAR by RNA interference induces apoptosis and autophagy in
+RT   HepG2 hepatocellular carcinoma cells.";
+RL   Biochem. Biophys. Res. Commun. 437:300-306(2013).
+RN   [17]
+RP   FUNCTION, AND MUTAGENESIS OF HIS-11; GLU-102 AND HIS-198.
+RX   PubMed=23726973; DOI=10.1016/j.devcel.2013.05.001;
+RA   Cheung E.C., Athineos D., Lee P., Ridgway R.A., Lambie W., Nixon C.,
+RA   Strathdee D., Blyth K., Sansom O.J., Vousden K.H.;
+RT   "TIGAR is required for efficient intestinal regeneration and
+RT   tumorigenesis.";
+RL   Dev. Cell 25:463-477(2013).
+RN   [18]
+RP   FUNCTION, AND SUBCELLULAR LOCATION.
+RX   PubMed=25928429; DOI=10.1038/srep09853;
+RA   Yu H.P., Xie J.M., Li B., Sun Y.H., Gao Q.G., Ding Z.H., Wu H.R., Qin Z.H.;
+RT   "TIGAR regulates DNA damage and repair through pentosephosphate pathway and
+RT   Cdk5-ATM pathway.";
+RL   Sci. Rep. 5:9853-9853(2015).
+RN   [19]
+RP   X-RAY CRYSTALLOGRAPHY (1.75 ANGSTROMS) OF 2-270.
+RG   Center for eukaryotic structural genomics (CESG);
+RT   "Crystal structure a TP53-induced glycolysis and apoptosis regulator
+RT   protein from Homo sapiens.";
+RL   Submitted (FEB-2009) to the PDB data bank.
+CC   -!- FUNCTION: Fructose-bisphosphatase hydrolyzing fructose-2,6-bisphosphate
+CC       as well as fructose-1,6-bisphosphate (PubMed:19015259). Acts as a
+CC       negative regulator of glycolysis by lowering intracellular levels of
+CC       fructose-2,6-bisphosphate in a p53/TP53-dependent manner, resulting in
+CC       the pentose phosphate pathway (PPP) activation and NADPH production
+CC       (PubMed:16839880, PubMed:22887998). Contributes to the generation of
+CC       reduced glutathione to cause a decrease in intracellular reactive
+CC       oxygen species (ROS) content, correlating with its ability to protect
+CC       cells from oxidative or metabolic stress-induced cell death
+CC       (PubMed:16839880, PubMed:19713938, PubMed:22887998, PubMed:23726973,
+CC       PubMed:23817040). Plays a role in promoting protection against cell
+CC       death during hypoxia by decreasing mitochondria ROS levels in a HK2-
+CC       dependent manner through a mechanism that is independent of its
+CC       fructose-bisphosphatase activity (PubMed:23185017). In response to
+CC       cardiac damage stress, mediates p53-induced inhibition of myocyte
+CC       mitophagy through ROS levels reduction and the subsequent inactivation
+CC       of BNIP3. Reduced mitophagy results in an enhanced apoptotic myocyte
+CC       cell death, and exacerbates cardiac damage (By similarity). Plays a
+CC       role in adult intestinal regeneration; contributes to the growth,
+CC       proliferation and survival of intestinal crypts following tissue
+CC       ablation (PubMed:23726973). Plays a neuroprotective role against
+CC       ischemic brain damage by enhancing PPP flux and preserving mitochondria
+CC       functions (By similarity). Protects glioma cells from hypoxia- and ROS-
+CC       induced cell death by inhibiting glycolysis and activating
+CC       mitochondrial energy metabolism and oxygen consumption in a TKTL1-
+CC       dependent and p53/TP53-independent manner (PubMed:22887998). Plays a
+CC       role in cancer cell survival by promoting DNA repair through activating
+CC       PPP flux in a CDK5-ATM-dependent signaling pathway during hypoxia
+CC       and/or genome stress-induced DNA damage responses (PubMed:25928429).
+CC       Involved in intestinal tumor progression (PubMed:23726973).
+CC       {ECO:0000250|UniProtKB:Q8BZA9, ECO:0000269|PubMed:16839880,
+CC       ECO:0000269|PubMed:19015259, ECO:0000269|PubMed:19713938,
+CC       ECO:0000269|PubMed:22887998, ECO:0000269|PubMed:23185017,
+CC       ECO:0000269|PubMed:23726973, ECO:0000269|PubMed:23817040,
+CC       ECO:0000269|PubMed:25928429}.
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=beta-D-fructose 2,6-bisphosphate + H2O = beta-D-fructose 6-
+CC         phosphate + phosphate; Xref=Rhea:RHEA:17289, ChEBI:CHEBI:15377,
+CC         ChEBI:CHEBI:43474, ChEBI:CHEBI:57634, ChEBI:CHEBI:58579; EC=3.1.3.46;
+CC         Evidence={ECO:0000269|PubMed:19015259};
+CC   -!- SUBUNIT: Interacts with HK2; the interaction increases hexokinase HK2
+CC       activity in a hypoxia- and HIF1A-dependent manner, resulting in the
+CC       regulation of mitochondrial membrane potential, thus increasing NADPH
+CC       production and decreasing intracellular ROS levels (PubMed:23185017).
+CC       {ECO:0000269|PubMed:23185017}.
+CC   -!- INTERACTION:
+CC       Q9NQ88; P55212: CASP6; NbExp=3; IntAct=EBI-3920747, EBI-718729;
+CC       Q9NQ88; O00291: HIP1; NbExp=3; IntAct=EBI-3920747, EBI-473886;
+CC       Q9NQ88; P52789: HK2; NbExp=3; IntAct=EBI-3920747, EBI-741469;
+CC       Q9NQ88; P13473-2: LAMP2; NbExp=3; IntAct=EBI-3920747, EBI-21591415;
+CC       Q9NQ88; Q9Y371: SH3GLB1; NbExp=3; IntAct=EBI-3920747, EBI-2623095;
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000269|PubMed:23185017,
+CC       ECO:0000269|PubMed:25928429}. Nucleus {ECO:0000269|PubMed:25928429}.
+CC       Mitochondrion {ECO:0000269|PubMed:23185017}. Note=Translocated to the
+CC       mitochondria during hypoxia in a HIF1A-dependent manner
+CC       (PubMed:23185017). Colocalizes with HK2 in the mitochondria during
+CC       hypoxia (PubMed:23185017). Translocated to the nucleus during hypoxia
+CC       and/or genome stress-induced DNA damage responses in cancer cells
+CC       (PubMed:25928429). Translocation to the mitochondria is enhanced in
+CC       ischemic cortex after reperfusion and/or during oxygen and glucose
+CC       deprivation (OGD)/reoxygenation insult in primary neurons (By
+CC       similarity). {ECO:0000250|UniProtKB:Q8BZA9,
+CC       ECO:0000269|PubMed:23185017, ECO:0000269|PubMed:25928429}.
+CC   -!- TISSUE SPECIFICITY: Expressed in the brain (PubMed:22887998). Expressed
+CC       in breast tumors (PubMed:21820150). Expressed in glioblastomas
+CC       (PubMed:22887998). {ECO:0000269|PubMed:21820150,
+CC       ECO:0000269|PubMed:22887998}.
+CC   -!- INDUCTION: Up-regulated by p53/TP53 (at protein level)
+CC       (PubMed:16839880). Rapidly up-regulated by p53/TP53 (PubMed:16140933,
+CC       PubMed:16839880, PubMed:19713938). Up-regulated in glioma cell line in
+CC       a p53/TP53-independent manner (PubMed:22887998).
+CC       {ECO:0000269|PubMed:16140933, ECO:0000269|PubMed:16839880,
+CC       ECO:0000269|PubMed:19713938, ECO:0000269|PubMed:22887998}.
+CC   -!- SIMILARITY: Belongs to the phosphoglycerate mutase family.
+CC       {ECO:0000305}.
+CC   -!- CAUTION: Not expected to have any kinase activity. {ECO:0000305}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AJ272206; CAC01127.1; -; mRNA.
+DR   EMBL; AY425618; AAQ98969.1; -; mRNA.
+DR   EMBL; AK313226; BAG36037.1; -; mRNA.
+DR   EMBL; CH471116; EAW88849.1; -; Genomic_DNA.
+DR   EMBL; BC012340; AAH12340.1; -; mRNA.
+DR   CCDS; CCDS8525.1; -.
+DR   RefSeq; NP_065108.1; NM_020375.3.
+DR   PDB; 3DCY; X-ray; 1.75 A; A=2-270.
+DR   AlphaFoldDB; Q9NQ88; -.
+DR   SMR; Q9NQ88; -.
+DR   BioGRID; 121369; 74.
+DR   DIP; DIP-60093N; -.
+DR   FunCoup; Q9NQ88; 886.
+DR   IntAct; Q9NQ88; 41.
+DR   NDEx; IQUERY-CP-TIGAR; 4 NDEx IQuery Curated Pathways.
+DR   STRING; 9606.ENSP00000179259; -.
+DR   ChEMBL; CHEMBL4295958; -.
+DR   DEPOD; TIGAR; -.
+DR   GlyGen; Q9NQ88; 1 site, 1 O-linked glycan (1 site).
+DR   iPTMnet; Q9NQ88; -.
+DR   PhosphoSitePlus; Q9NQ88; -.
+DR   BioMuta; TIGAR; -.
+DR   DMDM; 74734311; -.
+DR   jPOST; Q9NQ88; -.
+DR   MassIVE; Q9NQ88; -.
+DR   PaxDb; 9606-ENSP00000179259; -.
+DR   PeptideAtlas; Q9NQ88; -.
+DR   ProteomicsDB; 82106; -.
+DR   Pumba; Q9NQ88; -.
+DR   Antibodypedia; 22261; 388 antibodies from 38 providers.
+DR   DNASU; 57103; -.
+DR   Ensembl; ENST00000179259.6; ENSP00000179259.4; ENSG00000078237.8.
+DR   GeneID; 57103; -.
+DR   KEGG; hsa:57103; -.
+DR   MANE-Select; ENST00000179259.6; ENSP00000179259.4; NM_020375.3; NP_065108.1.
+DR   UCSC; uc001qmp.4; human.
+DR   AGR; HGNC:1185; -.
+DR   ClinPGx; PA25506; -.
+DR   CTD; 57103; -.
+DR   DisGeNET; 57103; -.
+DR   GeneCards; TIGAR; -.
+DR   HGNC; HGNC:1185; TIGAR.
+DR   HPA; ENSG00000078237; Low tissue specificity.
+DR   MIM; 610775; gene.
+DR   OpenTargets; ENSG00000078237; -.
+DR   VEuPathDB; HostDB:ENSG00000078237; -.
+DR   eggNOG; KOG0235; Eukaryota.
+DR   GeneTree; ENSGT00390000013224; -.
+DR   HOGENOM; CLU_033323_16_0_1; -.
+DR   InParanoid; Q9NQ88; -.
+DR   OMA; PTIQCVC; -.
+DR   OrthoDB; 354304at2759; -.
+DR   PAN-GO; Q9NQ88; 4 GO annotations based on evolutionary models.
+DR   PhylomeDB; Q9NQ88; -.
+DR   BioCyc; MetaCyc:HS01277-MONOMER; -.
+DR   PathwayCommons; Q9NQ88; -.
+DR   Reactome; R-HSA-5628897; TP53 Regulates Metabolic Genes.
+DR   SignaLink; Q9NQ88; -.
+DR   SIGNOR; Q9NQ88; -.
+DR   Agora; ENSG00000078237; -.
+DR   BioGRID-ORCS; 57103; 12 hits in 1160 CRISPR screens.
+DR   ChiTaRS; TIGAR; human.
+DR   EvolutionaryTrace; Q9NQ88; -.
+DR   GeneWiki; C12orf5; -.
+DR   GenomeRNAi; 57103; -.
+DR   Pharos; Q9NQ88; Tbio.
+DR   PRO; PR:Q9NQ88; -.
+DR   Proteomes; UP000005640; Chromosome 12.
+DR   RNAct; Q9NQ88; protein.
+DR   Bgee; ENSG00000078237; Expressed in monocyte and 104 other cell types or tissues.
+DR   ExpressionAtlas; Q9NQ88; baseline and differential.
+DR   GO; GO:0005737; C:cytoplasm; IDA:UniProtKB.
+DR   GO; GO:0005829; C:cytosol; IDA:HPA.
+DR   GO; GO:0005741; C:mitochondrial outer membrane; IDA:UniProtKB.
+DR   GO; GO:0005739; C:mitochondrion; EXP:UniProtKB.
+DR   GO; GO:0005634; C:nucleus; IDA:UniProtKB.
+DR   GO; GO:0004331; F:fructose-2,6-bisphosphate 2-phosphatase activity; IDA:UniProtKB.
+DR   GO; GO:0071279; P:cellular response to cobalt ion; IDA:UniProtKB.
+DR   GO; GO:0071456; P:cellular response to hypoxia; IDA:UniProtKB.
+DR   GO; GO:0006974; P:DNA damage response; IDA:UniProtKB.
+DR   GO; GO:0045820; P:negative regulation of glycolytic process; IBA:GO_Central.
+DR   GO; GO:0043069; P:negative regulation of programmed cell death; IDA:UniProtKB.
+DR   GO; GO:0045739; P:positive regulation of DNA repair; IMP:UniProtKB.
+DR   GO; GO:1903301; P:positive regulation of hexokinase activity; IDA:UniProtKB.
+DR   GO; GO:1905857; P:positive regulation of pentose-phosphate shunt; IEA:Ensembl.
+DR   GO; GO:0043456; P:regulation of pentose-phosphate shunt; IMP:UniProtKB.
+DR   GO; GO:1902153; P:regulation of response to DNA damage checkpoint signaling; IMP:UniProtKB.
+DR   GO; GO:0002931; P:response to ischemia; ISS:UniProtKB.
+DR   CDD; cd07067; HP_PGM_like; 1.
+DR   FunFam; 3.40.50.1240:FF:000026; Putative fructose-2,6-bisphosphatase TIGAR; 1.
+DR   Gene3D; 3.40.50.1240; Phosphoglycerate mutase-like; 1.
+DR   InterPro; IPR013078; His_Pase_superF_clade-1.
+DR   InterPro; IPR029033; His_PPase_superfam.
+DR   InterPro; IPR001345; PG/BPGM_mutase_AS.
+DR   InterPro; IPR051695; Phosphoglycerate_Mutase.
+DR   PANTHER; PTHR46517; FRUCTOSE-2,6-BISPHOSPHATASE TIGAR; 1.
+DR   PANTHER; PTHR46517:SF1; FRUCTOSE-2,6-BISPHOSPHATASE TIGAR; 1.
+DR   Pfam; PF00300; His_Phos_1; 1.
+DR   SMART; SM00855; PGAM; 1.
+DR   SUPFAM; SSF53254; Phosphoglycerate mutase-like; 1.
+DR   PROSITE; PS00175; PG_MUTASE; 1.
+DR   PDBsum; 3DCY; -.
+PE   1: Evidence at protein level;
+KW   3D-structure; Acetylation; Apoptosis; Autophagy; Cytoplasm; Hydrolase;
+KW   Mitochondrion; Nucleus; Proteomics identification; Reference proteome.
+FT   CHAIN           1..270
+FT                   /note="Fructose-2,6-bisphosphatase TIGAR"
+FT                   /id="PRO_0000179957"
+FT   ACT_SITE        11
+FT                   /note="Tele-phosphohistidine intermediate"
+FT                   /evidence="ECO:0000250|UniProtKB:Q7ZVE3"
+FT   ACT_SITE        89
+FT                   /note="Proton donor/acceptor"
+FT                   /evidence="ECO:0000250|UniProtKB:Q7ZVE3"
+FT   SITE            198
+FT                   /note="Transition state stabilizer"
+FT                   /evidence="ECO:0000250|UniProtKB:Q7ZVE3"
+FT   MOD_RES         50
+FT                   /note="N6-acetyllysine"
+FT                   /evidence="ECO:0007744|PubMed:19608861"
+FT   MUTAGEN         11
+FT                   /note="H->A: Abolishes the ability to lower cellular
+FT                   fructose-2,6-bisphosphate levels, to inhibit the glycolytic
+FT                   activity, to reduce levels of ROS, to increase oxygen
+FT                   consumption and to protect toward hypoxic cell death; when
+FT                   associated with A-11 and A-102. Retains the ability to
+FT                   interact and enhance HK2 activity, to localize to the
+FT                   mitochondria, to limit mitochondrial ROS level increase
+FT                   during hypoxia and to rescued partially crypt growth; when
+FT                   associated with A-102 and A-198. Loss of the ability to
+FT                   protect against cell death during hypoxia; when associated
+FT                   with A-102; A-198 and 258-N--D-261 Del."
+FT                   /evidence="ECO:0000269|PubMed:16839880,
+FT                   ECO:0000269|PubMed:22887998, ECO:0000269|PubMed:23185017,
+FT                   ECO:0000269|PubMed:23726973"
+FT   MUTAGEN         102
+FT                   /note="E->A: Abolishes the ability to lower cellular
+FT                   fructose-2,6-bisphosphate levels, to inhibit the glycolytic
+FT                   activity, to reduce levels of ROS, to increase oxygen
+FT                   consumption and to protect toward hypoxic cell death; when
+FT                   associated with A-11 and A-198. Retains the ability to
+FT                   interact and enhance HK2 activity, to localize to the
+FT                   mitochondria, to limit mitochondrial ROS level increase
+FT                   during hypoxia and to rescued partially crypt growth; when
+FT                   associated with A-11 and A-198. Loss of the ability to
+FT                   protect against cell death during hypoxia; when associated
+FT                   with A-11; A-198 and 258-N--D-261 Del."
+FT                   /evidence="ECO:0000269|PubMed:16839880,
+FT                   ECO:0000269|PubMed:22887998, ECO:0000269|PubMed:23185017,
+FT                   ECO:0000269|PubMed:23726973"
+FT   MUTAGEN         198
+FT                   /note="H->A: Abolishes the ability to lower cellular
+FT                   fructose-2,6-bisphosphate levels, to inhibit the glycolytic
+FT                   activity, to reduce levels of ROS, to increase oxygen
+FT                   consumption and to protect toward hypoxic cell death; when
+FT                   associated with A-11 and A-102. Retains the ability to
+FT                   interact and enhance HK2 activity, to localize to the
+FT                   mitochondria, to limit mitochondrial ROS level increase
+FT                   during hypoxia and to rescued partially crypt growth; when
+FT                   associated with A-11 and A-102. Loss of the ability to
+FT                   protect against cell death during hypoxia; when associated
+FT                   with A-11; A-102 and 258-N--D-261 Del."
+FT                   /evidence="ECO:0000269|PubMed:16839880,
+FT                   ECO:0000269|PubMed:22887998, ECO:0000269|PubMed:23185017,
+FT                   ECO:0000269|PubMed:23726973"
+FT   MUTAGEN         258..261
+FT                   /note="Missing: Inhibits the ability to interact and
+FT                   enhance HK2 activity, to localize to the mitochondria, to
+FT                   protect against the decrease of mitochondrial membrane
+FT                   potential and to limit mitochondrial ROS level increase
+FT                   during hypoxia. Does not abolish the ability to lower
+FT                   cellular fructose-2,6-bisphosphate levels during hypoxia.
+FT                   Loss of the ability to protect against cell death during
+FT                   hypoxia; when associated with A-11; A-102 and A-198."
+FT                   /evidence="ECO:0000269|PubMed:23185017"
+FT   STRAND          2..10
+FT                   /evidence="ECO:0007829|PDB:3DCY"
+FT   HELIX           11..13
+FT                   /evidence="ECO:0007829|PDB:3DCY"
+FT   HELIX           15..19
+FT                   /evidence="ECO:0007829|PDB:3DCY"
+FT   STRAND          24..27
+FT                   /evidence="ECO:0007829|PDB:3DCY"
+FT   HELIX           33..45
+FT                   /evidence="ECO:0007829|PDB:3DCY"
+FT   TURN            46..48
+FT                   /evidence="ECO:0007829|PDB:3DCY"
+FT   STRAND          52..56
+FT                   /evidence="ECO:0007829|PDB:3DCY"
+FT   HELIX           60..70
+FT                   /evidence="ECO:0007829|PDB:3DCY"
+FT   STRAND          81..83
+FT                   /evidence="ECO:0007829|PDB:3DCY"
+FT   HELIX           85..87
+FT                   /evidence="ECO:0007829|PDB:3DCY"
+FT   HELIX           88..91
+FT                   /evidence="ECO:0007829|PDB:3DCY"
+FT   HELIX           93..95
+FT                   /evidence="ECO:0007829|PDB:3DCY"
+FT   HELIX           100..109
+FT                   /evidence="ECO:0007829|PDB:3DCY"
+FT   TURN            114..116
+FT                   /evidence="ECO:0007829|PDB:3DCY"
+FT   HELIX           125..149
+FT                   /evidence="ECO:0007829|PDB:3DCY"
+FT   HELIX           161..167
+FT                   /evidence="ECO:0007829|PDB:3DCY"
+FT   HELIX           187..189
+FT                   /evidence="ECO:0007829|PDB:3DCY"
+FT   STRAND          192..197
+FT                   /evidence="ECO:0007829|PDB:3DCY"
+FT   HELIX           199..207
+FT                   /evidence="ECO:0007829|PDB:3DCY"
+FT   HELIX           208..212
+FT                   /evidence="ECO:0007829|PDB:3DCY"
+FT   HELIX           223..227
+FT                   /evidence="ECO:0007829|PDB:3DCY"
+FT   STRAND          235..242
+FT                   /evidence="ECO:0007829|PDB:3DCY"
+FT   STRAND          244..247
+FT                   /evidence="ECO:0007829|PDB:3DCY"
+FT   HELIX           248..250
+FT                   /evidence="ECO:0007829|PDB:3DCY"
+FT   STRAND          251..259
+FT                   /evidence="ECO:0007829|PDB:3DCY"
+SQ   SEQUENCE   270 AA;  30063 MW;  B85D59659AD96E39 CRC64;
+     MARFALTVVR HGETRFNKEK IIQGQGVDEP LSETGFKQAA AAGIFLNNVK FTHAFSSDLM
+     RTKQTMHGIL ERSKFCKDMT VKYDSRLRER KYGVVEGKAL SELRAMAKAA REECPVFTPP
+     GGETLDQVKM RGIDFFEFLC QLILKEADQK EQFSQGSPSN CLETSLAEIF PLGKNHSSKV
+     NSDSGIPGLA ASVLVVSHGA YMRSLFDYFL TDLKCSLPAT LSRSELMSVT PNTGMSLFII
+     NFEEGREVKP TVQCICMNLQ DHLNGLTETR
+//

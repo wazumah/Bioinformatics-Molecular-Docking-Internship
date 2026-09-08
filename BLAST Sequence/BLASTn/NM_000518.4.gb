@@ -1,0 +1,307 @@
+LOCUS       NM_000518                626 bp    mRNA    linear   PRI 01-MAY-2018
+DEFINITION  Homo sapiens hemoglobin subunit beta (HBB), mRNA.
+ACCESSION   NM_000518
+VERSION     NM_000518.4
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 626)
+  AUTHORS   Nagatomo S, Saito K, Yamamoto K, Ogura T, Kitagawa T and Nagai M.
+  TITLE     Heterogeneity between Two alpha Subunits of alpha2beta2 Human
+            Hemoglobin and O2 Binding Properties: Raman, (1)H Nuclear Magnetic
+            Resonance, and Terahertz Spectra
+  JOURNAL   Biochemistry 56 (46), 6125-6136 (2017)
+   PUBMED   29064674
+  REMARK    GeneRIF: In this paper, the experimental results of resonance
+            Raman, terahertz time-domain, and 1H nuclear magnetic resonance
+            spectroscopy for the Hb M are described in detail. The
+            heterogeneity of alpha subunits, which has been observed
+            previously, is reconfirmed, and its implications for the dynamical
+            structure of the alpha2beta2 tetramer and the regulation of O2
+            affinity are discussed.
+REFERENCE   2  (bases 1 to 626)
+  AUTHORS   Shibayama N, Ohki M, Tame JRH and Park SY.
+  TITLE     Direct observation of conformational population shifts in
+            crystalline human hemoglobin
+  JOURNAL   J. Biol. Chem. 292 (44), 18258-18269 (2017)
+   PUBMED   28931607
+  REMARK    GeneRIF: Data suggest that, in crystal form of Hb containing three
+            protein molecules--Hbalpha(1)beta(2), allosteric effectors
+            (phosphate, bezafibrate) induce conformational changes in direction
+            from relaxed-state to tense-state; binding of each effector
+            energetically stabilizes lowest affinity conformer more strongly
+            than intermediate affinity conformer; minor Hb conformers have
+            disproportionate effects on overall O(2) affinity.
+REFERENCE   3  (bases 1 to 626)
+  AUTHORS   Shaikho EM, Farrell JJ, Alsultan A, Qutub H, Al-Ali AK, Figueiredo
+            MS, Chui DHK, Farrer LA, Murphy GJ, Mostoslavsky G, Sebastiani P
+            and Steinberg MH.
+  TITLE     A phased SNP-based classification of sickle cell anemia HBB
+            haplotypes
+  JOURNAL   BMC Genomics 18 (1), 608 (2017)
+   PUBMED   28800727
+  REMARK    GeneRIF: SNP-based classification of sickle cell anemia HBB
+            haplotypes
+REFERENCE   4  (bases 1 to 626)
+  AUTHORS   Thein SL.
+  TITLE     Genetic Basis and Genetic Modifiers of beta-Thalassemia and Sickle
+            Cell Disease
+  JOURNAL   Adv. Exp. Med. Biol. 1013, 27-57 (2017)
+   PUBMED   29127676
+  REMARK    GeneRIF: Studies indicate that beta-thalassemia and sickle cell
+            disease (SCD) are both caused by mutations affecting the adult
+            beta-globin gene.
+            Review article
+REFERENCE   5  (bases 1 to 626)
+  AUTHORS   Calvo SE, Pagliarini DJ and Mootha VK.
+  TITLE     Upstream open reading frames cause widespread reduction of protein
+            expression and are polymorphic among humans
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 106 (18), 7507-7512 (2009)
+   PUBMED   19372376
+  REMARK    GeneRIF: Includes the study of a disease-related upstream ORF in
+            this gene, and shows that it functions to reduce protein levels by
+            ~70%.
+REFERENCE   6  (bases 1 to 626)
+  AUTHORS   Origa,R.
+  TITLE     Beta-Thalassemia
+  JOURNAL   (in) Adam MP, Ardinger HH, Pagon RA, Wallace SE, Bean LJH, Stephens
+            K and Amemiya A (Eds.);
+            GENEREVIEWS((R));
+            (1993)
+   PUBMED   20301599
+REFERENCE   7  (bases 1 to 626)
+  AUTHORS   Bender,M.A.
+  TITLE     Sickle Cell Disease
+  JOURNAL   (in) Adam MP, Ardinger HH, Pagon RA, Wallace SE, Bean LJH, Stephens
+            K and Amemiya A (Eds.);
+            GENEREVIEWS((R));
+            (1993)
+   PUBMED   20301551
+REFERENCE   8  (bases 1 to 626)
+  AUTHORS   Adams,J.G., Steinberg,M.H., Boxer,L.A., Baehner,R.L., Forget,B.G.
+            and Tsistrakis,G.A.
+  TITLE     The structure of hemoglobin Indianapolis [beta112(G14) arginine].
+            An unstable variant detectable only by isotopic labeling
+  JOURNAL   J. Biol. Chem. 254 (9), 3479-3482 (1979)
+   PUBMED   429365
+REFERENCE   9  (bases 1 to 626)
+  AUTHORS   Marotta,C.A., Wilson,J.T., Forget,B.G. and Weissman,S.M.
+  TITLE     Human beta-globin messenger RNA. III. Nucleotide sequences derived
+            from complementary DNA
+  JOURNAL   J. Biol. Chem. 252 (14), 5040-5053 (1977)
+   PUBMED   68958
+REFERENCE   10 (bases 1 to 626)
+  AUTHORS   Proudfoot,N.J.
+  TITLE     Complete 3' noncoding region sequences of rabbit and human
+            beta-globin messenger RNAs
+  JOURNAL   Cell 10 (4), 559-570 (1977)
+   PUBMED   67897
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from L48217.1.
+            This sequence is a reference standard in the RefSeqGene project.
+            
+            [WARNING] On Jun 13, 2018 this sequence was replaced by
+            NM_000518.5.
+            
+            On Feb 11, 2003 this sequence version replaced NM_000518.3.
+            
+            Summary: The alpha (HBA) and beta (HBB) loci determine the
+            structure of the 2 types of polypeptide chains in adult hemoglobin,
+            Hb A. The normal adult hemoglobin tetramer consists of two alpha
+            chains and two beta chains. Mutant beta globin causes sickle cell
+            anemia. Absence of beta chain causes beta-zero-thalassemia. Reduced
+            amounts of detectable beta globin causes beta-plus-thalassemia. The
+            order of the genes in the beta-globin cluster is 5'-epsilon --
+            gamma-G -- gamma-A -- delta -- beta--3'. [provided by RefSeq, Jul
+            2008].
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: V00497.1, AU139015.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA1968832, SAMEA2142586
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..626
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="11"
+                     /map="11p15.4"
+     gene            1..626
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C"
+                     /note="hemoglobin subunit beta"
+                     /db_xref="GeneID:3043"
+                     /db_xref="HGNC:HGNC:4827"
+                     /db_xref="MIM:141900"
+     exon            1..142
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    30..32
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C"
+                     /note="upstream in-frame stop codon"
+     CDS             51..494
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C"
+                     /note="beta globin chain; hemoglobin, beta"
+                     /codon_start=1
+                     /product="hemoglobin subunit beta"
+                     /protein_id="NP_000509.1"
+                     /db_xref="CCDS:CCDS7753.1"
+                     /db_xref="GeneID:3043"
+                     /db_xref="HGNC:HGNC:4827"
+                     /db_xref="MIM:141900"
+                     /translation="MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFE
+                     SFGDLSTPDAVMGNPKVKAHGKKVLGAFSDGLAHLDNLKGTFATLSELHCDKLHVDPE
+                     NFRLLGNVLVCVLAHHFGKEFTPPVQAAYQKVVAGVANALAHKYH"
+     misc_feature    54..56
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N-acetylvaline. {ECO:0000250|UniProtKB:P02086};
+                     propagated from UniProtKB/Swiss-Prot (P68871.2);
+                     acetylation site"
+     misc_feature    54..56
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N-pyruvate 2-iminyl-valine, in Hb A1b; propagated
+                     from UniProtKB/Swiss-Prot (P68871.2); modified site"
+     misc_feature    78..80
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:24275569};
+                     propagated from UniProtKB/Swiss-Prot (P68871.2);
+                     phosphorylation site"
+     misc_feature    87..89
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphothreonine. {ECO:0000244|PubMed:24275569};
+                     propagated from UniProtKB/Swiss-Prot (P68871.2);
+                     phosphorylation site"
+     misc_feature    183..185
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:24275569};
+                     propagated from UniProtKB/Swiss-Prot (P68871.2);
+                     phosphorylation site"
+     misc_feature    201..203
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphothreonine. {ECO:0000244|PubMed:24275569};
+                     propagated from UniProtKB/Swiss-Prot (P68871.2);
+                     phosphorylation site"
+     misc_feature    228..230
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N6-acetyllysine. {ECO:0000269|PubMed:4531009};
+                     propagated from UniProtKB/Swiss-Prot (P68871.2);
+                     acetylation site"
+     misc_feature    228..230
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Not glycated. {ECO:0000269|PubMed:7358733};
+                     propagated from UniProtKB/Swiss-Prot (P68871.2); other
+                     site"
+     misc_feature    297..299
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N6-acetyllysine. {ECO:0000269|PubMed:4531009};
+                     propagated from UniProtKB/Swiss-Prot (P68871.2);
+                     acetylation site"
+     misc_feature    297..299
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Not glycated. {ECO:0000269|PubMed:7358733};
+                     propagated from UniProtKB/Swiss-Prot (P68871.2); other
+                     site"
+     misc_feature    312..314
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphothreonine. {ECO:0000244|PubMed:24275569};
+                     propagated from UniProtKB/Swiss-Prot (P68871.2);
+                     phosphorylation site"
+     misc_feature    330..332
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="S-nitrosocysteine. {ECO:0000269|PubMed:8637569,
+                     ECO:0000269|PubMed:9843411}; propagated from
+                     UniProtKB/Swiss-Prot (P68871.2); nitrosylation site"
+     misc_feature    336..338
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Not glycated. {ECO:0000269|PubMed:7358733};
+                     propagated from UniProtKB/Swiss-Prot (P68871.2); other
+                     site"
+     misc_feature    483..485
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N6-acetyllysine, alternate.
+                     {ECO:0000269|PubMed:4531009}; propagated from
+                     UniProtKB/Swiss-Prot (P68871.2); acetylation site"
+     exon            143..365
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C"
+                     /inference="alignment:Splign:2.1.0"
+     exon            366..626
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      602..607
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C"
+     polyA_site      626
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C"
+ORIGIN      
+        1 acatttgctt ctgacacaac tgtgttcact agcaacctca aacagacacc atggtgcatc
+       61 tgactcctga ggagaagtct gccgttactg ccctgtgggg caaggtgaac gtggatgaag
+      121 ttggtggtga ggccctgggc aggctgctgg tggtctaccc ttggacccag aggttctttg
+      181 agtcctttgg ggatctgtcc actcctgatg ctgttatggg caaccctaag gtgaaggctc
+      241 atggcaagaa agtgctcggt gcctttagtg atggcctggc tcacctggac aacctcaagg
+      301 gcacctttgc cacactgagt gagctgcact gtgacaagct gcacgtggat cctgagaact
+      361 tcaggctcct gggcaacgtg ctggtctgtg tgctggccca tcactttggc aaagaattca
+      421 ccccaccagt gcaggctgcc tatcagaaag tggtggctgg tgtggctaat gccctggccc
+      481 acaagtatca ctaagctcgc tttcttgctg tccaatttct attaaaggtt cctttgttcc
+      541 ctaagtccaa ctactaaact gggggatatt atgaagggcc ttgagcatct ggattctgcc
+      601 taataaaaaa catttatttt cattgc
+//
+

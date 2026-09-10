@@ -1,0 +1,54 @@
+>Feature ref|NM_000546.6|
+1	2512	gene
+			gene	TP53
+			gene_syn	BCC7
+			gene_syn	BMFS5
+			gene_syn	LFS1
+			gene_syn	P53
+			gene_syn	TRP53
+			gene_desc	tumor protein p53
+			db_xref	GeneID:7157
+			db_xref	HGNC:HGNC:11998
+			db_xref	MIM:191170
+1	114	exon
+			inference	alignment:Splign:2.1.0
+35	37	misc_feature
+			note	upstream in-frame stop codon
+115	216	exon
+			inference	alignment:Splign:2.1.0
+143	1324	CDS
+			product	cellular tumor antigen p53 isoform a
+			product	tumor protein 53
+			product	mutant tumor protein 53
+			product	cellular tumor antigen p53
+			product	phosphoprotein p53
+			product	transformation-related protein 53
+			product	antigen NY-CO-13
+			product	tumor supressor p53
+			protein_id	ref|NP_000537.3|
+			note	isoform a is encoded by transcript variant 1
+			db_xref	CCDS:CCDS11118.1
+217	238	exon
+			inference	alignment:Splign:2.1.0
+239	517	exon
+			inference	alignment:Splign:2.1.0
+518	701	exon
+			inference	alignment:Splign:2.1.0
+702	814	exon
+			inference	alignment:Splign:2.1.0
+815	924	exon
+			inference	alignment:Splign:2.1.0
+925	1061	exon
+			inference	alignment:Splign:2.1.0
+1062	1135	exon
+			inference	alignment:Splign:2.1.0
+1136	1242	exon
+			inference	alignment:Splign:2.1.0
+1243	2512	exon
+			inference	alignment:Splign:2.1.0
+2495	2500	regulatory
+			note	hexamer: AATAAA
+			regulatory_class	polyA_signal_sequence
+2512	2512	polyA_site
+			note	major polyA site
+
